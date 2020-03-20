@@ -1,0 +1,40 @@
+12/08/19 17:28:22 INFO Connecting to the database
+12/08/19 17:28:22 INFO Connected to the mysql database 3.125.182.23
+12/08/19 17:28:22 INFO Connected to the database
+12/08/19 17:28:42 INFO creating the audit log table
+12/08/19 17:28:42 INFO Audit log table is created and values inserted
+12/08/19 17:28:42 INFO Converting XLS to CSV
+12/08/19 17:28:42 INFO Checking the regular expressions for MD and GIT
+12/08/19 17:28:42 INFO Verified regular expressions for MD and GIT
+12/08/19 17:28:42 INFO Getting the greatest commit from the multiple commits
+12/08/19 17:28:42 INFO defining the function to create the release branch
+12/08/19 17:28:42 INFO defining the function to create the pre-release tag
+12/08/19 17:28:42 INFO definitng the fuction to create the Tag in MD
+12/08/19 17:28:42 INFO Running the release script....
+12/08/19 17:29:21 INFO finished running release script...
+12/08/19 17:29:21 INFO Entering into the Main Function
+12/08/19 17:29:21 INFO Verified MCA Platform SW in discriptor
+12/08/19 17:29:21 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/commits/0be17dd37868255bb787d4bd21c98c9a422e2814
+12/08/19 17:29:21 INFO The Repo Name is gets-diagnosticeventlogger
+12/08/19 17:29:21 INFO The Commit Number is 0be17dd37868255bb787d4bd21c98c9a422e2814
+12/08/19 17:29:21 INFO Got the greatest commit number from the multiple commits for gets-diagnosticeventlogger
+12/08/19 17:29:21 INFO commit date for gets-diagnosticeventlogger
+12/08/19 17:29:21 INFO Matched git list from the DEF_Changlist
+12/08/19 17:29:21 INFO Matched MD list from the DEF_Changlist
+12/08/19 17:29:21 INFO The URL is https://3.125.182.117:8111/osmc/resources/e3ac899c-040c-4267-848a-05a30b10564c/tags
+12/08/19 17:29:21 INFO The Project ID is e3ac899c-040c-4267-848a-05a30b10564c
+12/08/19 17:29:21 INFO The Commit Number is 860
+12/08/19 17:29:21 INFO created Tag successfully for version 860
+12/08/19 17:29:21 INFO created Tag successfully for version 860
+12/08/19 17:29:21 INFO calling the python script to insert the values into database
+12/08/19 17:29:22 INFO Dataframe for Release Branch
+12/08/19 17:29:22 INFO Creating Release Branch System Architecture
+12/08/19 17:29:22 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/git/refs
+12/08/19 17:29:22 INFO The Repo Name is gets-diagnosticeventlogger
+12/08/19 17:29:22 INFO The Commit Number is 0be17dd37868255bb787d4bd21c98c9a422e2814
+12/08/19 17:29:22 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/releases
+12/08/19 17:29:22 INFO The Repo Name is gets-diagnosticeventlogger
+12/08/19 17:29:22 INFO The Commit Number is 0be17dd37868255bb787d4bd21c98c9a422e2814
+12/08/19 17:29:23 INFO Pre-release Tag is created for gets-diagnosticeventlogger
+12/08/19 17:29:23 INFO created release branch successfully for repo gets-diagnosticeventlogger
+12/08/19 17:29:23 INFO calling the python script to insert the values into database

@@ -1,0 +1,638 @@
+12/09/19 10:30:50 INFO The repo name is :
+12/09/19 10:30:50 INFO System Architecture
+12/09/19 10:30:50 INFO Connecting to the database
+12/09/19 10:30:50 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:50 INFO Connected to the database
+12/09/19 10:30:50 INFO creating the audit log table
+12/09/19 10:30:50 INFO Audit log table is created and values inserted
+12/09/19 10:30:50 INFO Inserting the values into Properties table
+12/09/19 10:30:50 INFO Values inserted into Properties table
+12/09/19 10:30:50 INFO Getting the length of Repo table
+12/09/19 10:30:50 INFO Entering into the Main function
+12/09/19 10:30:50 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:50 INFO Inserting values into Repo Table
+12/09/19 10:30:50 INFO values inserted into the repo table
+12/09/19 10:30:50 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:50 INFO values inserted into the repo commits table
+12/09/19 10:30:50 INFO values inserted into the database
+12/09/19 10:30:52 INFO The repo name is :
+12/09/19 10:30:52 INFO gets-diagnosticeventlogger
+12/09/19 10:30:52 INFO Connecting to the database
+12/09/19 10:30:52 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:52 INFO Connected to the database
+12/09/19 10:30:52 INFO creating the audit log table
+12/09/19 10:30:52 INFO Audit log table is created and values inserted
+12/09/19 10:30:52 INFO Inserting the values into Properties table
+12/09/19 10:30:52 INFO Values inserted into Properties table
+12/09/19 10:30:52 INFO Getting the length of Repo table
+12/09/19 10:30:52 INFO Entering into the Main function
+12/09/19 10:30:52 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:52 INFO Inserting values into Repo Table
+12/09/19 10:30:52 INFO values inserted into the repo table
+12/09/19 10:30:52 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:52 INFO values inserted into the repo commits table
+12/09/19 10:30:52 INFO values inserted into the database
+12/09/19 10:30:52 INFO values inserted into the repo commits table
+12/09/19 10:30:52 INFO values inserted into the database
+12/09/19 10:30:53 INFO The repo name is :
+12/09/19 10:30:53 INFO gets-container-service
+12/09/19 10:30:53 INFO Connecting to the database
+12/09/19 10:30:53 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:53 INFO Connected to the database
+12/09/19 10:30:53 INFO creating the audit log table
+12/09/19 10:30:53 INFO Audit log table is created and values inserted
+12/09/19 10:30:53 INFO Inserting the values into Properties table
+12/09/19 10:30:53 INFO Values inserted into Properties table
+12/09/19 10:30:53 INFO Getting the length of Repo table
+12/09/19 10:30:53 INFO Entering into the Main function
+12/09/19 10:30:53 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:53 INFO Inserting values into Repo Table
+12/09/19 10:30:53 INFO values inserted into the repo table
+12/09/19 10:30:53 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:53 INFO values inserted into the repo commits table
+12/09/19 10:30:53 INFO values inserted into the database
+12/09/19 10:30:55 INFO The repo name is :
+12/09/19 10:30:55 INFO gets-config-base
+12/09/19 10:30:55 INFO Connecting to the database
+12/09/19 10:30:55 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:55 INFO Connected to the database
+12/09/19 10:30:55 INFO creating the audit log table
+12/09/19 10:30:55 INFO Audit log table is created and values inserted
+12/09/19 10:30:55 INFO Inserting the values into Properties table
+12/09/19 10:30:55 INFO Values inserted into Properties table
+12/09/19 10:30:55 INFO Getting the length of Repo table
+12/09/19 10:30:55 INFO Entering into the Main function
+12/09/19 10:30:55 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:55 INFO Inserting values into Repo Table
+12/09/19 10:30:55 INFO values inserted into the repo table
+12/09/19 10:30:55 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:55 INFO values inserted into the repo commits table
+12/09/19 10:30:55 INFO values inserted into the database
+12/09/19 12:01:58 INFO The repo name is :
+12/09/19 12:01:58 INFO System Architecture
+12/09/19 12:01:58 INFO Connecting to the database
+12/09/19 12:01:58 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:01:58 INFO Connected to the database
+12/09/19 12:01:58 INFO creating the audit log table
+12/09/19 12:01:58 INFO Audit log table is created and values inserted
+12/09/19 12:01:58 INFO Inserting the values into Properties table
+12/09/19 12:01:58 INFO Values inserted into Properties table
+12/09/19 12:01:58 INFO Getting the length of Repo table
+12/09/19 12:01:58 INFO Entering into the Main function
+12/09/19 12:01:58 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:01:58 INFO Inserting values into Repo Table
+12/09/19 12:01:58 INFO values inserted into the repo table
+12/09/19 12:01:58 INFO Inserting values into Repo Commits Table
+12/09/19 12:01:58 INFO values inserted into the repo commits table
+12/09/19 12:01:58 INFO values inserted into the database
+12/09/19 12:01:58 INFO values inserted into the repo commits table
+12/09/19 12:01:58 INFO values inserted into the database
+12/09/19 12:02:00 INFO The repo name is :
+12/09/19 12:02:00 INFO System Architecture
+12/09/19 12:02:00 INFO Connecting to the database
+12/09/19 12:02:00 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:02:00 INFO Connected to the database
+12/09/19 12:02:00 INFO creating the audit log table
+12/09/19 12:02:00 INFO Audit log table is created and values inserted
+12/09/19 12:02:00 INFO Inserting the values into Properties table
+12/09/19 12:02:00 INFO Values inserted into Properties table
+12/09/19 12:02:00 INFO Getting the length of Repo table
+12/09/19 12:02:00 INFO Entering into the Main function
+12/09/19 12:02:00 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:02:00 INFO Inserting values into Repo Table
+12/09/19 12:02:00 INFO values inserted into the repo table
+12/09/19 12:02:00 INFO Inserting values into Repo Commits Table
+12/09/19 12:02:00 INFO values inserted into the repo commits table
+12/09/19 12:02:00 INFO values inserted into the database
+12/09/19 12:02:00 INFO values inserted into the repo commits table
+12/09/19 12:02:00 INFO values inserted into the database
+12/09/19 12:02:03 INFO The repo name is :
+12/09/19 12:02:03 INFO gets-diagnosticeventlogger
+12/09/19 12:02:03 INFO Connecting to the database
+12/09/19 12:02:03 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:02:03 INFO Connected to the database
+12/09/19 12:02:03 INFO creating the audit log table
+12/09/19 12:02:03 INFO Audit log table is created and values inserted
+12/09/19 12:02:03 INFO Inserting the values into Properties table
+12/09/19 12:02:03 INFO Values inserted into Properties table
+12/09/19 12:02:03 INFO Getting the length of Repo table
+12/09/19 12:02:03 INFO Entering into the Main function
+12/09/19 12:02:03 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:02:03 INFO Inserting values into Repo Table
+12/09/19 12:02:03 INFO values inserted into the repo table
+12/09/19 12:02:03 INFO Inserting values into Repo Commits Table
+12/09/19 12:02:03 INFO values inserted into the repo commits table
+12/09/19 12:02:03 INFO values inserted into the database
+12/09/19 12:02:03 INFO values inserted into the repo commits table
+12/09/19 12:02:03 INFO values inserted into the database
+12/09/19 12:02:06 INFO The repo name is :
+12/09/19 12:02:06 INFO gets-container-service
+12/09/19 12:02:06 INFO Connecting to the database
+12/09/19 12:02:06 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:02:06 INFO Connected to the database
+12/09/19 12:02:06 INFO creating the audit log table
+12/09/19 12:02:06 INFO Audit log table is created and values inserted
+12/09/19 12:02:06 INFO Inserting the values into Properties table
+12/09/19 12:02:06 INFO Values inserted into Properties table
+12/09/19 12:02:06 INFO Getting the length of Repo table
+12/09/19 12:02:06 INFO Entering into the Main function
+12/09/19 12:02:06 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:02:06 INFO Inserting values into Repo Table
+12/09/19 12:02:06 INFO values inserted into the repo table
+12/09/19 12:02:06 INFO Inserting values into Repo Commits Table
+12/09/19 12:02:06 INFO values inserted into the repo commits table
+12/09/19 12:02:06 INFO values inserted into the database
+12/09/19 12:02:09 INFO The repo name is :
+12/09/19 12:02:09 INFO gets-config-base
+12/09/19 12:02:09 INFO Connecting to the database
+12/09/19 12:02:09 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:02:09 INFO Connected to the database
+12/09/19 12:02:09 INFO creating the audit log table
+12/09/19 12:02:09 INFO Audit log table is created and values inserted
+12/09/19 12:02:09 INFO Inserting the values into Properties table
+12/09/19 12:02:09 INFO Values inserted into Properties table
+12/09/19 12:02:09 INFO Getting the length of Repo table
+12/09/19 12:02:09 INFO Entering into the Main function
+12/09/19 12:02:09 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:02:09 INFO Inserting values into Repo Table
+12/09/19 12:02:09 INFO values inserted into the repo table
+12/09/19 12:02:09 INFO Inserting values into Repo Commits Table
+12/09/19 12:02:09 INFO values inserted into the repo commits table
+12/09/19 12:02:09 INFO values inserted into the database
+12/09/19 12:02:11 INFO The repo name is :
+12/09/19 12:02:11 INFO gets-ethernet-monitoring
+12/09/19 12:02:11 INFO Connecting to the database
+12/09/19 12:02:11 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:02:11 INFO Connected to the database
+12/09/19 12:02:11 INFO creating the audit log table
+12/09/19 12:02:11 INFO Audit log table is created and values inserted
+12/09/19 12:02:11 INFO Inserting the values into Properties table
+12/09/19 12:02:11 INFO Values inserted into Properties table
+12/09/19 12:02:11 INFO Getting the length of Repo table
+12/09/19 12:02:11 INFO Entering into the Main function
+12/09/19 12:02:11 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:02:11 INFO Inserting values into Repo Table
+12/09/19 12:02:11 INFO values inserted into the repo table
+12/09/19 12:02:11 INFO Inserting values into Repo Commits Table
+12/09/19 12:02:11 INFO values inserted into the repo commits table
+12/09/19 12:02:11 INFO values inserted into the database
+12/09/19 12:02:13 INFO The repo name is :
+12/09/19 12:02:13 INFO gets-ram-monitor
+12/09/19 12:02:13 INFO Connecting to the database
+12/09/19 12:02:13 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:02:13 INFO Connected to the database
+12/09/19 12:02:13 INFO creating the audit log table
+12/09/19 12:02:13 INFO Audit log table is created and values inserted
+12/09/19 12:02:13 INFO Inserting the values into Properties table
+12/09/19 12:02:13 INFO Values inserted into Properties table
+12/09/19 12:02:13 INFO Getting the length of Repo table
+12/09/19 12:02:13 INFO Entering into the Main function
+12/09/19 12:02:13 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:02:13 INFO Inserting values into Repo Table
+12/09/19 12:02:13 INFO values inserted into the repo table
+12/09/19 12:02:13 INFO Inserting values into Repo Commits Table
+12/09/19 12:02:13 INFO values inserted into the repo commits table
+12/09/19 12:02:13 INFO values inserted into the database
+12/09/19 12:02:15 INFO The repo name is :
+12/09/19 12:02:15 INFO gets-pigpen
+12/09/19 12:02:15 INFO Connecting to the database
+12/09/19 12:02:15 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:02:15 INFO Connected to the database
+12/09/19 12:02:15 INFO creating the audit log table
+12/09/19 12:02:15 INFO Audit log table is created and values inserted
+12/09/19 12:02:15 INFO Inserting the values into Properties table
+12/09/19 12:02:15 INFO Values inserted into Properties table
+12/09/19 12:02:15 INFO Getting the length of Repo table
+12/09/19 12:02:15 INFO Entering into the Main function
+12/09/19 12:02:15 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:02:15 INFO Inserting values into Repo Table
+12/09/19 12:02:15 INFO values inserted into the repo table
+12/09/19 12:02:15 INFO Inserting values into Repo Commits Table
+12/09/19 12:02:15 INFO values inserted into the repo commits table
+12/09/19 12:02:15 INFO values inserted into the database
+12/09/19 12:16:55 INFO The repo name is :
+12/09/19 12:16:55 INFO System Architecture
+12/09/19 12:16:55 INFO Connecting to the database
+12/09/19 12:16:55 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:16:55 INFO Connected to the database
+12/09/19 12:16:55 INFO creating the audit log table
+12/09/19 12:16:55 INFO Audit log table is created and values inserted
+12/09/19 12:16:55 INFO Inserting the values into Properties table
+12/09/19 12:16:55 INFO Values inserted into Properties table
+12/09/19 12:16:55 INFO Getting the length of Repo table
+12/09/19 12:16:55 INFO Entering into the Main function
+12/09/19 12:16:55 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:16:55 INFO Inserting values into Repo Table
+12/09/19 12:16:55 INFO values inserted into the repo table
+12/09/19 12:16:55 INFO Inserting values into Repo Commits Table
+12/09/19 12:16:55 INFO values inserted into the repo commits table
+12/09/19 12:16:55 INFO values inserted into the database
+12/09/19 12:16:55 INFO values inserted into the repo commits table
+12/09/19 12:16:55 INFO values inserted into the database
+12/09/19 12:16:56 INFO The repo name is :
+12/09/19 12:16:56 INFO System Architecture
+12/09/19 12:16:56 INFO Connecting to the database
+12/09/19 12:16:56 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:16:56 INFO Connected to the database
+12/09/19 12:16:56 INFO creating the audit log table
+12/09/19 12:16:56 INFO Audit log table is created and values inserted
+12/09/19 12:16:56 INFO Inserting the values into Properties table
+12/09/19 12:16:56 INFO Values inserted into Properties table
+12/09/19 12:16:56 INFO Getting the length of Repo table
+12/09/19 12:16:56 INFO Entering into the Main function
+12/09/19 12:16:56 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:16:56 INFO Inserting values into Repo Table
+12/09/19 12:16:56 INFO values inserted into the repo table
+12/09/19 12:16:56 INFO Inserting values into Repo Commits Table
+12/09/19 12:16:56 INFO values inserted into the repo commits table
+12/09/19 12:16:56 INFO values inserted into the database
+12/09/19 12:16:56 INFO values inserted into the repo commits table
+12/09/19 12:16:56 INFO values inserted into the database
+12/09/19 12:16:58 INFO The repo name is :
+12/09/19 12:16:58 INFO gets-diagnosticeventlogger
+12/09/19 12:16:58 INFO Connecting to the database
+12/09/19 12:16:58 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:16:58 INFO Connected to the database
+12/09/19 12:16:58 INFO creating the audit log table
+12/09/19 12:16:58 INFO Audit log table is created and values inserted
+12/09/19 12:16:58 INFO Inserting the values into Properties table
+12/09/19 12:16:58 INFO Values inserted into Properties table
+12/09/19 12:16:58 INFO Getting the length of Repo table
+12/09/19 12:16:58 INFO Entering into the Main function
+12/09/19 12:16:58 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:16:58 INFO Inserting values into Repo Table
+12/09/19 12:16:58 INFO values inserted into the repo table
+12/09/19 12:16:58 INFO Inserting values into Repo Commits Table
+12/09/19 12:16:58 INFO values inserted into the repo commits table
+12/09/19 12:16:58 INFO values inserted into the database
+12/09/19 12:16:58 INFO values inserted into the repo commits table
+12/09/19 12:16:58 INFO values inserted into the database
+12/09/19 12:17:00 INFO The repo name is :
+12/09/19 12:17:00 INFO gets-container-service
+12/09/19 12:17:00 INFO Connecting to the database
+12/09/19 12:17:00 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:17:00 INFO Connected to the database
+12/09/19 12:17:00 INFO creating the audit log table
+12/09/19 12:17:00 INFO Audit log table is created and values inserted
+12/09/19 12:17:00 INFO Inserting the values into Properties table
+12/09/19 12:17:00 INFO Values inserted into Properties table
+12/09/19 12:17:00 INFO Getting the length of Repo table
+12/09/19 12:17:00 INFO Entering into the Main function
+12/09/19 12:17:00 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:17:00 INFO Inserting values into Repo Table
+12/09/19 12:17:00 INFO values inserted into the repo table
+12/09/19 12:17:00 INFO Inserting values into Repo Commits Table
+12/09/19 12:17:00 INFO values inserted into the repo commits table
+12/09/19 12:17:00 INFO values inserted into the database
+12/09/19 12:17:03 INFO The repo name is :
+12/09/19 12:17:03 INFO gets-config-base
+12/09/19 12:17:03 INFO Connecting to the database
+12/09/19 12:17:03 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:17:03 INFO Connected to the database
+12/09/19 12:17:03 INFO creating the audit log table
+12/09/19 12:17:03 INFO Audit log table is created and values inserted
+12/09/19 12:17:03 INFO Inserting the values into Properties table
+12/09/19 12:17:03 INFO Values inserted into Properties table
+12/09/19 12:17:03 INFO Getting the length of Repo table
+12/09/19 12:17:03 INFO Entering into the Main function
+12/09/19 12:17:03 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:17:03 INFO Inserting values into Repo Table
+12/09/19 12:17:03 INFO values inserted into the repo table
+12/09/19 12:17:03 INFO Inserting values into Repo Commits Table
+12/09/19 12:17:03 INFO values inserted into the repo commits table
+12/09/19 12:17:03 INFO values inserted into the database
+12/09/19 12:17:09 INFO The repo name is :
+12/09/19 12:17:09 INFO gets-ethernet-monitoring
+12/09/19 12:17:09 INFO Connecting to the database
+12/09/19 12:17:09 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:17:09 INFO Connected to the database
+12/09/19 12:17:09 INFO creating the audit log table
+12/09/19 12:17:09 INFO Audit log table is created and values inserted
+12/09/19 12:17:09 INFO Inserting the values into Properties table
+12/09/19 12:17:09 INFO Values inserted into Properties table
+12/09/19 12:17:09 INFO Getting the length of Repo table
+12/09/19 12:17:09 INFO Entering into the Main function
+12/09/19 12:17:09 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:17:09 INFO Inserting values into Repo Table
+12/09/19 12:17:09 INFO values inserted into the repo table
+12/09/19 12:17:09 INFO Inserting values into Repo Commits Table
+12/09/19 12:17:09 INFO values inserted into the repo commits table
+12/09/19 12:17:09 INFO values inserted into the database
+12/09/19 12:17:13 INFO The repo name is :
+12/09/19 12:17:13 INFO gets-ram-monitor
+12/09/19 12:17:13 INFO Connecting to the database
+12/09/19 12:17:13 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:17:13 INFO Connected to the database
+12/09/19 12:17:13 INFO creating the audit log table
+12/09/19 12:17:13 INFO Audit log table is created and values inserted
+12/09/19 12:17:13 INFO Inserting the values into Properties table
+12/09/19 12:17:13 INFO Values inserted into Properties table
+12/09/19 12:17:13 INFO Getting the length of Repo table
+12/09/19 12:17:13 INFO Entering into the Main function
+12/09/19 12:17:13 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:17:13 INFO Inserting values into Repo Table
+12/09/19 12:17:13 INFO values inserted into the repo table
+12/09/19 12:17:13 INFO Inserting values into Repo Commits Table
+12/09/19 12:17:13 INFO values inserted into the repo commits table
+12/09/19 12:17:13 INFO values inserted into the database
+12/09/19 12:17:15 INFO The repo name is :
+12/09/19 12:17:15 INFO gets-pig
+12/09/19 12:17:15 INFO Connecting to the database
+12/09/19 12:17:15 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:17:15 INFO Connected to the database
+12/09/19 12:17:15 INFO creating the audit log table
+12/09/19 12:17:15 INFO Audit log table is created and values inserted
+12/09/19 12:17:15 INFO Inserting the values into Properties table
+12/09/19 12:17:15 INFO Values inserted into Properties table
+12/09/19 12:17:15 INFO Getting the length of Repo table
+12/09/19 12:17:15 INFO Entering into the Main function
+12/09/19 12:17:15 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:17:15 INFO Inserting values into Repo Table
+12/09/19 12:17:15 INFO values inserted into the repo table
+12/09/19 12:17:15 INFO Inserting values into Repo Commits Table
+12/09/19 12:17:15 INFO values inserted into the repo commits table
+12/09/19 12:17:15 INFO values inserted into the database
+12/09/19 13:35:41 INFO The repo name is :
+12/09/19 13:35:41 INFO System Architecture
+12/09/19 13:35:41 INFO Connecting to the database
+12/09/19 13:35:41 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:41 INFO Connected to the database
+12/09/19 13:35:41 INFO creating the audit log table
+12/09/19 13:35:41 INFO Audit log table is created and values inserted
+12/09/19 13:35:41 INFO Inserting the values into Properties table
+12/09/19 13:35:41 INFO Values inserted into Properties table
+12/09/19 13:35:41 INFO Getting the length of Repo table
+12/09/19 13:35:41 INFO Entering into the Main function
+12/09/19 13:35:41 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:41 INFO Inserting values into Repo Table
+12/09/19 13:35:41 INFO values inserted into the repo table
+12/09/19 13:35:41 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:41 INFO values inserted into the repo commits table
+12/09/19 13:35:41 INFO values inserted into the database
+12/09/19 13:35:41 INFO values inserted into the repo commits table
+12/09/19 13:35:41 INFO values inserted into the database
+12/09/19 13:35:43 INFO The repo name is :
+12/09/19 13:35:43 INFO System Architecture
+12/09/19 13:35:43 INFO Connecting to the database
+12/09/19 13:35:43 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:43 INFO Connected to the database
+12/09/19 13:35:43 INFO creating the audit log table
+12/09/19 13:35:43 INFO Audit log table is created and values inserted
+12/09/19 13:35:43 INFO Inserting the values into Properties table
+12/09/19 13:35:43 INFO Values inserted into Properties table
+12/09/19 13:35:43 INFO Getting the length of Repo table
+12/09/19 13:35:43 INFO Entering into the Main function
+12/09/19 13:35:43 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:43 INFO Inserting values into Repo Table
+12/09/19 13:35:43 INFO values inserted into the repo table
+12/09/19 13:35:43 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:43 INFO values inserted into the repo commits table
+12/09/19 13:35:43 INFO values inserted into the database
+12/09/19 13:35:43 INFO values inserted into the repo commits table
+12/09/19 13:35:43 INFO values inserted into the database
+12/09/19 13:35:46 INFO The repo name is :
+12/09/19 13:35:46 INFO gets-diagnosticeventlogger
+12/09/19 13:35:46 INFO Connecting to the database
+12/09/19 13:35:46 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:46 INFO Connected to the database
+12/09/19 13:35:46 INFO creating the audit log table
+12/09/19 13:35:46 INFO Audit log table is created and values inserted
+12/09/19 13:35:46 INFO Inserting the values into Properties table
+12/09/19 13:35:46 INFO Values inserted into Properties table
+12/09/19 13:35:46 INFO Getting the length of Repo table
+12/09/19 13:35:46 INFO Entering into the Main function
+12/09/19 13:35:46 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:46 INFO Inserting values into Repo Table
+12/09/19 13:35:46 INFO values inserted into the repo table
+12/09/19 13:35:46 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:46 INFO values inserted into the repo commits table
+12/09/19 13:35:46 INFO values inserted into the database
+12/09/19 13:35:46 INFO values inserted into the repo commits table
+12/09/19 13:35:46 INFO values inserted into the database
+12/09/19 13:35:48 INFO The repo name is :
+12/09/19 13:35:48 INFO gets-container-service
+12/09/19 13:35:48 INFO Connecting to the database
+12/09/19 13:35:48 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:48 INFO Connected to the database
+12/09/19 13:35:48 INFO creating the audit log table
+12/09/19 13:35:48 INFO Audit log table is created and values inserted
+12/09/19 13:35:48 INFO Inserting the values into Properties table
+12/09/19 13:35:48 INFO Values inserted into Properties table
+12/09/19 13:35:48 INFO Getting the length of Repo table
+12/09/19 13:35:48 INFO Entering into the Main function
+12/09/19 13:35:48 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:48 INFO Inserting values into Repo Table
+12/09/19 13:35:48 INFO values inserted into the repo table
+12/09/19 13:35:48 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:48 INFO values inserted into the repo commits table
+12/09/19 13:35:48 INFO values inserted into the database
+12/09/19 13:35:51 INFO The repo name is :
+12/09/19 13:35:51 INFO gets-config-base
+12/09/19 13:35:51 INFO Connecting to the database
+12/09/19 13:35:51 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:51 INFO Connected to the database
+12/09/19 13:35:51 INFO creating the audit log table
+12/09/19 13:35:51 INFO Audit log table is created and values inserted
+12/09/19 13:35:51 INFO Inserting the values into Properties table
+12/09/19 13:35:51 INFO Values inserted into Properties table
+12/09/19 13:35:51 INFO Getting the length of Repo table
+12/09/19 13:35:51 INFO Entering into the Main function
+12/09/19 13:35:51 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:51 INFO Inserting values into Repo Table
+12/09/19 13:35:51 INFO values inserted into the repo table
+12/09/19 13:35:51 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:51 INFO values inserted into the repo commits table
+12/09/19 13:35:51 INFO values inserted into the database
+12/09/19 13:35:53 INFO The repo name is :
+12/09/19 13:35:53 INFO gets-ethernet-monitoring
+12/09/19 13:35:53 INFO Connecting to the database
+12/09/19 13:35:53 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:53 INFO Connected to the database
+12/09/19 13:35:53 INFO creating the audit log table
+12/09/19 13:35:53 INFO Audit log table is created and values inserted
+12/09/19 13:35:53 INFO Inserting the values into Properties table
+12/09/19 13:35:53 INFO Values inserted into Properties table
+12/09/19 13:35:53 INFO Getting the length of Repo table
+12/09/19 13:35:53 INFO Entering into the Main function
+12/09/19 13:35:53 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:53 INFO Inserting values into Repo Table
+12/09/19 13:35:53 INFO values inserted into the repo table
+12/09/19 13:35:53 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:53 INFO values inserted into the repo commits table
+12/09/19 13:35:53 INFO values inserted into the database
+12/09/19 13:35:54 INFO The repo name is :
+12/09/19 13:35:54 INFO gets-ram-monitor
+12/09/19 13:35:54 INFO Connecting to the database
+12/09/19 13:35:54 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:54 INFO Connected to the database
+12/09/19 13:35:54 INFO creating the audit log table
+12/09/19 13:35:54 INFO Audit log table is created and values inserted
+12/09/19 13:35:54 INFO Inserting the values into Properties table
+12/09/19 13:35:54 INFO Values inserted into Properties table
+12/09/19 13:35:54 INFO Getting the length of Repo table
+12/09/19 13:35:54 INFO Entering into the Main function
+12/09/19 13:35:54 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:54 INFO Inserting values into Repo Table
+12/09/19 13:35:54 INFO values inserted into the repo table
+12/09/19 13:35:54 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:54 INFO values inserted into the repo commits table
+12/09/19 13:35:54 INFO values inserted into the database
+12/09/19 13:35:57 INFO The repo name is :
+12/09/19 13:35:57 INFO gets-pig
+12/09/19 13:35:57 INFO Connecting to the database
+12/09/19 13:35:57 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:35:57 INFO Connected to the database
+12/09/19 13:35:57 INFO creating the audit log table
+12/09/19 13:35:57 INFO Audit log table is created and values inserted
+12/09/19 13:35:57 INFO Inserting the values into Properties table
+12/09/19 13:35:57 INFO Values inserted into Properties table
+12/09/19 13:35:57 INFO Getting the length of Repo table
+12/09/19 13:35:57 INFO Entering into the Main function
+12/09/19 13:35:57 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:57 INFO Inserting values into Repo Table
+12/09/19 13:35:57 INFO values inserted into the repo table
+12/09/19 13:35:57 INFO Inserting values into Repo Commits Table
+12/09/19 13:35:57 INFO values inserted into the repo commits table
+12/09/19 13:35:57 INFO values inserted into the database
+12/09/19 14:31:31 INFO The repo name is :
+12/09/19 14:31:31 INFO System Architecture
+12/09/19 14:31:31 INFO Connecting to the database
+12/09/19 14:31:31 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:31 INFO Connected to the database
+12/09/19 14:31:31 INFO creating the audit log table
+12/09/19 14:31:31 INFO Audit log table is created and values inserted
+12/09/19 14:31:31 INFO Inserting the values into Properties table
+12/09/19 14:31:31 INFO Values inserted into Properties table
+12/09/19 14:31:31 INFO Getting the length of Repo table
+12/09/19 14:31:31 INFO Entering into the Main function
+12/09/19 14:31:31 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:31 INFO Inserting values into Repo Table
+12/09/19 14:31:31 INFO values inserted into the repo table
+12/09/19 14:31:31 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:31 INFO values inserted into the repo commits table
+12/09/19 14:31:31 INFO values inserted into the database
+12/09/19 14:31:31 INFO values inserted into the repo commits table
+12/09/19 14:31:31 INFO values inserted into the database
+12/09/19 14:31:33 INFO The repo name is :
+12/09/19 14:31:33 INFO System Architecture
+12/09/19 14:31:33 INFO Connecting to the database
+12/09/19 14:31:33 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:33 INFO Connected to the database
+12/09/19 14:31:33 INFO creating the audit log table
+12/09/19 14:31:33 INFO Audit log table is created and values inserted
+12/09/19 14:31:33 INFO Inserting the values into Properties table
+12/09/19 14:31:33 INFO Values inserted into Properties table
+12/09/19 14:31:33 INFO Getting the length of Repo table
+12/09/19 14:31:33 INFO Entering into the Main function
+12/09/19 14:31:33 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:33 INFO Inserting values into Repo Table
+12/09/19 14:31:33 INFO values inserted into the repo table
+12/09/19 14:31:33 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:33 INFO values inserted into the repo commits table
+12/09/19 14:31:33 INFO values inserted into the database
+12/09/19 14:31:33 INFO values inserted into the repo commits table
+12/09/19 14:31:33 INFO values inserted into the database
+12/09/19 14:31:35 INFO The repo name is :
+12/09/19 14:31:35 INFO gets-diagnosticeventlogger
+12/09/19 14:31:35 INFO Connecting to the database
+12/09/19 14:31:35 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:35 INFO Connected to the database
+12/09/19 14:31:35 INFO creating the audit log table
+12/09/19 14:31:35 INFO Audit log table is created and values inserted
+12/09/19 14:31:35 INFO Inserting the values into Properties table
+12/09/19 14:31:35 INFO Values inserted into Properties table
+12/09/19 14:31:35 INFO Getting the length of Repo table
+12/09/19 14:31:35 INFO Entering into the Main function
+12/09/19 14:31:35 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:35 INFO Inserting values into Repo Table
+12/09/19 14:31:35 INFO values inserted into the repo table
+12/09/19 14:31:35 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:35 INFO values inserted into the repo commits table
+12/09/19 14:31:35 INFO values inserted into the database
+12/09/19 14:31:35 INFO values inserted into the repo commits table
+12/09/19 14:31:35 INFO values inserted into the database
+12/09/19 14:31:37 INFO The repo name is :
+12/09/19 14:31:37 INFO gets-container-service
+12/09/19 14:31:37 INFO Connecting to the database
+12/09/19 14:31:37 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:37 INFO Connected to the database
+12/09/19 14:31:37 INFO creating the audit log table
+12/09/19 14:31:37 INFO Audit log table is created and values inserted
+12/09/19 14:31:37 INFO Inserting the values into Properties table
+12/09/19 14:31:37 INFO Values inserted into Properties table
+12/09/19 14:31:37 INFO Getting the length of Repo table
+12/09/19 14:31:37 INFO Entering into the Main function
+12/09/19 14:31:37 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:37 INFO Inserting values into Repo Table
+12/09/19 14:31:37 INFO values inserted into the repo table
+12/09/19 14:31:37 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:37 INFO values inserted into the repo commits table
+12/09/19 14:31:37 INFO values inserted into the database
+12/09/19 14:31:40 INFO The repo name is :
+12/09/19 14:31:40 INFO gets-config-base
+12/09/19 14:31:40 INFO Connecting to the database
+12/09/19 14:31:40 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:40 INFO Connected to the database
+12/09/19 14:31:40 INFO creating the audit log table
+12/09/19 14:31:40 INFO Audit log table is created and values inserted
+12/09/19 14:31:40 INFO Inserting the values into Properties table
+12/09/19 14:31:40 INFO Values inserted into Properties table
+12/09/19 14:31:40 INFO Getting the length of Repo table
+12/09/19 14:31:40 INFO Entering into the Main function
+12/09/19 14:31:40 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:40 INFO Inserting values into Repo Table
+12/09/19 14:31:40 INFO values inserted into the repo table
+12/09/19 14:31:40 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:40 INFO values inserted into the repo commits table
+12/09/19 14:31:40 INFO values inserted into the database
+12/09/19 14:31:44 INFO The repo name is :
+12/09/19 14:31:44 INFO gets-ethernet-monitoring
+12/09/19 14:31:44 INFO Connecting to the database
+12/09/19 14:31:44 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:44 INFO Connected to the database
+12/09/19 14:31:44 INFO creating the audit log table
+12/09/19 14:31:44 INFO Audit log table is created and values inserted
+12/09/19 14:31:44 INFO Inserting the values into Properties table
+12/09/19 14:31:44 INFO Values inserted into Properties table
+12/09/19 14:31:44 INFO Getting the length of Repo table
+12/09/19 14:31:44 INFO Entering into the Main function
+12/09/19 14:31:44 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:44 INFO Inserting values into Repo Table
+12/09/19 14:31:44 INFO values inserted into the repo table
+12/09/19 14:31:44 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:44 INFO values inserted into the repo commits table
+12/09/19 14:31:44 INFO values inserted into the database
+12/09/19 14:31:47 INFO The repo name is :
+12/09/19 14:31:47 INFO gets-ram-monitor
+12/09/19 14:31:47 INFO Connecting to the database
+12/09/19 14:31:47 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:47 INFO Connected to the database
+12/09/19 14:31:47 INFO creating the audit log table
+12/09/19 14:31:47 INFO Audit log table is created and values inserted
+12/09/19 14:31:47 INFO Inserting the values into Properties table
+12/09/19 14:31:48 INFO Values inserted into Properties table
+12/09/19 14:31:48 INFO Getting the length of Repo table
+12/09/19 14:31:48 INFO Entering into the Main function
+12/09/19 14:31:48 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:48 INFO Inserting values into Repo Table
+12/09/19 14:31:48 INFO values inserted into the repo table
+12/09/19 14:31:48 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:48 INFO values inserted into the repo commits table
+12/09/19 14:31:48 INFO values inserted into the database
+12/09/19 14:31:51 INFO The repo name is :
+12/09/19 14:31:51 INFO gets-pig
+12/09/19 14:31:51 INFO Connecting to the database
+12/09/19 14:31:51 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:31:51 INFO Connected to the database
+12/09/19 14:31:51 INFO creating the audit log table
+12/09/19 14:31:51 INFO Audit log table is created and values inserted
+12/09/19 14:31:51 INFO Inserting the values into Properties table
+12/09/19 14:31:51 INFO Values inserted into Properties table
+12/09/19 14:31:51 INFO Getting the length of Repo table
+12/09/19 14:31:51 INFO Entering into the Main function
+12/09/19 14:31:51 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:31:51 INFO Inserting values into Repo Table
+12/09/19 14:31:51 INFO values inserted into the repo table
+12/09/19 14:31:51 INFO Inserting values into Repo Commits Table
+12/09/19 14:31:51 INFO values inserted into the repo commits table
+12/09/19 14:31:51 INFO values inserted into the database

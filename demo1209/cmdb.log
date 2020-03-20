@@ -1,0 +1,41 @@
+12/08/19 17:28:42 INFO The Release Branch name is  IVV-PLT-2019.1208.0700
+12/08/19 17:28:42 INFO Connecting to the database
+12/08/19 17:28:42 INFO Connected to the mysql database 3.125.182.23
+12/08/19 17:28:42 INFO Connected to the database
+12/08/19 17:28:42 INFO creating the audit log table
+12/08/19 17:28:42 INFO Audit log table is created and values inserted
+12/08/19 17:28:42 INFO Converting QueryResult xls file csv
+12/08/19 17:28:42 INFO QueryResult xls file is converted to csv
+12/08/19 17:28:42 INFO Reading the values from Properties table
+12/08/19 17:28:42 INFO Values read from the Properties table
+12/08/19 17:28:42 INFO Getting the length of Release Table
+12/08/19 17:28:42 INFO Entering into the Main function
+12/08/19 17:28:42 INFO Reading values from cmdb-defect.csv file
+12/08/19 17:28:50 INFO Inserting the values into the release table
+12/08/19 17:28:50 INFO values inserted into the release table
+12/09/19 10:30:09 INFO The Release Branch name is  IVV-PLT-2019.1209.1030
+12/09/19 10:30:09 INFO Connecting to the database
+12/09/19 10:30:09 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:09 INFO Connected to the database
+12/09/19 10:30:09 INFO creating the audit log table
+12/09/19 10:30:09 INFO Audit log table is created and values inserted
+12/09/19 10:30:09 INFO Converting QueryResult xls file csv
+12/09/19 10:30:09 INFO QueryResult xls file is converted to csv
+12/09/19 10:30:09 INFO Reading the values from Properties table
+12/09/19 10:30:09 INFO Values read from the Properties table
+12/09/19 10:30:09 INFO Getting the length of Release Table
+12/09/19 10:30:09 INFO Entering into the Main function
+12/09/19 10:30:09 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:17 INFO Inserting the values into the release table
+12/09/19 10:30:17 INFO values inserted into the release table
+12/09/19 10:51:06 INFO Connecting to the database
+12/09/19 10:51:06 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:51:06 INFO Connected to the database
+12/09/19 10:51:06 INFO creating the audit log table
+12/09/19 10:51:06 INFO Audit log table is created and values inserted
+12/09/19 10:51:06 INFO Getting the Entry of Release table
+12/09/19 10:51:06 INFO Inserting the values into Repo table
+12/09/19 10:51:06 INFO Values inserted into Repo table
+12/09/19 10:51:06 INFO Entering into the Main function
+12/09/19 10:51:06 INFO values inserted into the repo table
+12/09/19 10:51:06 INFO values inserted into the database

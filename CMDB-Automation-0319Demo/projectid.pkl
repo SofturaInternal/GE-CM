@@ -1,0 +1,18 @@
+(dp0
+S'MCA IVV'
+p1
+S'66e55a0c-6883-4a79-a16a-c51760aaf9ec'
+p2
+sS'MCA Application Layer Prod'
+p3
+S'e3ac899c-040c-4267-848a-05a30b10564c'
+p4
+sS'MCA System'
+p5
+S'd215df3d-f670-49dd-9931-f1875c245ce9'
+p6
+sS'MCA Platform SW'
+p7
+S'a9f1641e-5994-4065-ac83-5b65dad2e163'
+p8
+s.

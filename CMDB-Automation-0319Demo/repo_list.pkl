@@ -1,0 +1,17 @@
+(dp0
+S'gets-container-service'
+p1
+S'dockerImage'
+p2
+sS'gets-config-base'
+p3
+g2
+sS'gets-diagnosticeventlogger'
+p4
+S'serviceBuild'
+p5
+sVgets-config
+p6
+S'serviceBuild'
+p7
+s.

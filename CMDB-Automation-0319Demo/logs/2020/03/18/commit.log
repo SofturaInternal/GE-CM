@@ -1,0 +1,296 @@
+03/18/20 20:07:54 INFO Trying to read repo build types
+03/18/20 20:07:54 INFO Trying to read project id names
+03/18/20 20:07:54 INFO Connecting to the database
+03/18/20 20:07:54 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:07:54 INFO Connected to the database
+03/18/20 20:07:54 INFO creating the audit log table
+03/18/20 20:07:54 INFO Audit log table is created and values inserted
+03/18/20 20:07:54 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:07:54 INFO Verified regular expressions for MD and GIT
+03/18/20 20:07:54 INFO Getting the greatest commit from the multiple commits
+03/18/20 20:07:54 INFO defining the function to create the release branch
+03/18/20 20:07:54 INFO defining the function to create the pre-release tag
+03/18/20 20:07:54 INFO Defining the function to create the Tag in MD
+03/18/20 20:07:54 INFO Running the release script....
+03/18/20 20:07:54 INFO finished running release script...
+03/18/20 20:07:54 INFO Entering into the Main Function
+03/18/20 20:07:54 INFO Verified MCA Platform SW in discriptor
+03/18/20 20:07:54 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/commits/94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:07:54 INFO The Repo Name is gets-config
+03/18/20 20:07:54 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:07:54 INFO Got the greatest commit number from the multiple commits for gets-config
+03/18/20 20:07:54 INFO commit date for gets-config
+03/18/20 20:07:54 INFO Matched git list from the LC_Changelist
+03/18/20 20:07:54 INFO Getting Latest Commit No. for Release Branch
+03/18/20 20:07:54 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/git/refs
+03/18/20 20:07:54 INFO The Repo Name is gets-config
+03/18/20 20:07:54 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:07:55 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/releases
+03/18/20 20:07:55 INFO The Repo Name is gets-config
+03/18/20 20:07:55 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:07:55 INFO Pre-release Tag is created for gets-config
+03/18/20 20:07:55 INFO created release branch successfully for repo gets-config
+03/18/20 20:07:55 INFO calling the python script to insert the values into database
+03/18/20 20:07:56 INFO Completed getting latest commit number from github
+03/18/20 20:07:56 INFO Getting Maximum Version for Magic Draw
+03/18/20 20:07:56 INFO Completed getting latest commit number from MagicDraw
+03/18/20 20:07:56 INFO All operations completed
+03/18/20 20:20:27 INFO Trying to read repo build types
+03/18/20 20:20:27 INFO Trying to read project id names
+03/18/20 20:20:27 INFO Connecting to the database
+03/18/20 20:20:27 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:20:27 INFO Connected to the database
+03/18/20 20:20:27 INFO creating the audit log table
+03/18/20 20:20:27 INFO Audit log table is created and values inserted
+03/18/20 20:20:27 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:20:27 INFO Verified regular expressions for MD and GIT
+03/18/20 20:20:27 INFO Getting the greatest commit from the multiple commits
+03/18/20 20:20:27 INFO defining the function to create the release branch
+03/18/20 20:20:27 INFO defining the function to create the pre-release tag
+03/18/20 20:20:27 INFO Defining the function to create the Tag in MD
+03/18/20 20:20:27 INFO Running the release script....
+03/18/20 20:20:27 INFO finished running release script...
+03/18/20 20:20:27 INFO Entering into the Main Function
+03/18/20 20:20:27 INFO Verified MCA Platform SW in discriptor
+03/18/20 20:20:27 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/commits/git
+03/18/20 20:20:27 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 20:20:27 INFO The Commit Number is git
+03/18/20 20:20:28 ERROR Something is wrong with the repo name, verify it: gets-diagnosticeventlogger
+03/18/20 20:20:29 INFO Trying to read repo build types
+03/18/20 20:20:29 INFO Trying to read project id names
+03/18/20 20:20:29 INFO Connecting to the database
+03/18/20 20:20:29 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:20:29 INFO Connected to the database
+03/18/20 20:20:29 INFO creating the audit log table
+03/18/20 20:20:29 INFO Audit log table is created and values inserted
+03/18/20 20:20:29 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:20:29 INFO Verified regular expressions for MD and GIT
+03/18/20 20:20:29 INFO Getting the greatest commit from the multiple commits
+03/18/20 20:20:29 INFO defining the function to create the release branch
+03/18/20 20:20:29 INFO defining the function to create the pre-release tag
+03/18/20 20:20:29 INFO Defining the function to create the Tag in MD
+03/18/20 20:20:29 INFO Running the release script....
+03/18/20 20:20:29 INFO finished running release script...
+03/18/20 20:20:29 INFO Entering into the Main Function
+03/18/20 20:20:29 INFO Verified MCA Platform SW in discriptor
+03/18/20 20:20:29 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/commits/94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:20:29 INFO The Repo Name is gets-config
+03/18/20 20:20:29 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:20:29 INFO Got the greatest commit number from the multiple commits for gets-config
+03/18/20 20:20:29 INFO commit date for gets-config
+03/18/20 20:20:29 INFO Matched git list from the LC_Changelist
+03/18/20 20:20:29 INFO Getting Latest Commit No. for Release Branch
+03/18/20 20:20:29 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/git/refs
+03/18/20 20:20:29 INFO The Repo Name is gets-config
+03/18/20 20:20:29 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:20:30 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/releases
+03/18/20 20:20:30 INFO The Repo Name is gets-config
+03/18/20 20:20:30 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 20:20:31 INFO Pre-release Tag is created for gets-config
+03/18/20 20:20:31 INFO created release branch successfully for repo gets-config
+03/18/20 20:20:31 INFO calling the python script to insert the values into database
+03/18/20 20:20:32 INFO Completed getting latest commit number from github
+03/18/20 20:20:32 INFO Getting Maximum Version for Magic Draw
+03/18/20 20:20:32 INFO Completed getting latest commit number from MagicDraw
+03/18/20 20:20:32 INFO All operations completed
+03/18/20 20:42:45 INFO Trying to read repo build types
+03/18/20 20:42:45 INFO Trying to read project id names
+03/18/20 20:42:45 INFO Connecting to the database
+03/18/20 20:42:45 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:42:45 INFO Connected to the database
+03/18/20 20:42:45 INFO creating the audit log table
+03/18/20 20:42:45 INFO Audit log table is created and values inserted
+03/18/20 20:42:45 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:42:45 INFO Verified regular expressions for MD and GIT
+03/18/20 20:42:45 INFO Getting the greatest commit from the multiple commits
+03/18/20 20:42:45 INFO defining the function to create the release branch
+03/18/20 20:42:45 INFO defining the function to create the pre-release tag
+03/18/20 20:42:45 INFO Defining the function to create the Tag in MD
+03/18/20 20:42:45 INFO Running the release script....
+03/18/20 20:42:45 INFO finished running release script...
+03/18/20 20:42:45 INFO Entering into the Main Function
+03/18/20 20:55:37 INFO Trying to read repo build types
+03/18/20 20:55:37 INFO Trying to read project id names
+03/18/20 20:55:37 INFO Connecting to the database
+03/18/20 20:55:37 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:55:37 INFO Connected to the database
+03/18/20 20:55:37 INFO creating the audit log table
+03/18/20 20:55:37 INFO Audit log table is created and values inserted
+03/18/20 20:55:37 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:55:37 INFO Verified regular expressions for MD and GIT
+03/18/20 20:55:37 INFO Getting the greatest commit from the multiple commits
+03/18/20 20:55:37 INFO defining the function to create the release branch
+03/18/20 20:55:37 INFO defining the function to create the pre-release tag
+03/18/20 20:55:37 INFO Defining the function to create the Tag in MD
+03/18/20 20:55:37 INFO Running the release script....
+03/18/20 20:55:37 INFO finished running release script...
+03/18/20 20:55:37 INFO Entering into the Main Function
+03/18/20 20:55:37 INFO Verified MCA Platform SW in discriptor
+03/18/20 20:55:37 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/commits/af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 20:55:37 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 20:55:37 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 20:55:37 INFO Got the greatest commit number from the multiple commits for gets-diagnosticeventlogger
+03/18/20 20:55:37 INFO commit date for gets-diagnosticeventlogger
+03/18/20 20:55:37 INFO Matched git list from the DEF_Changlist
+03/18/20 20:55:37 INFO Getting Latest Commit No. for Release Branch
+03/18/20 20:55:37 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/git/refs
+03/18/20 20:55:37 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 20:55:37 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 20:55:38 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/releases
+03/18/20 20:55:38 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 20:55:38 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 20:55:38 INFO Pre-release Tag is created for gets-diagnosticeventlogger
+03/18/20 20:55:38 INFO created release branch successfully for repo gets-diagnosticeventlogger
+03/18/20 20:55:38 INFO calling the python script to insert the values into database
+03/18/20 20:55:39 INFO Completed getting latest commit number from github
+03/18/20 20:55:39 INFO Getting Maximum Version for Magic Draw
+03/18/20 20:55:39 INFO Completed getting latest commit number from MagicDraw
+03/18/20 20:55:39 INFO All operations completed
+03/18/20 21:05:13 INFO Trying to read repo build types
+03/18/20 21:05:13 INFO Trying to read project id names
+03/18/20 21:05:13 INFO Connecting to the database
+03/18/20 21:05:13 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:05:13 INFO Connected to the database
+03/18/20 21:05:13 INFO creating the audit log table
+03/18/20 21:05:13 INFO Audit log table is created and values inserted
+03/18/20 21:05:13 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:05:13 INFO Verified regular expressions for MD and GIT
+03/18/20 21:05:13 INFO Getting the greatest commit from the multiple commits
+03/18/20 21:05:13 INFO defining the function to create the release branch
+03/18/20 21:05:13 INFO defining the function to create the pre-release tag
+03/18/20 21:05:13 INFO Defining the function to create the Tag in MD
+03/18/20 21:05:13 INFO Running the release script....
+03/18/20 21:05:14 INFO finished running release script...
+03/18/20 21:05:14 INFO Entering into the Main Function
+03/18/20 21:05:14 INFO Verified MCA Platform SW in discriptor
+03/18/20 21:05:14 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/commits/af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:05:14 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 21:05:14 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:05:14 INFO Got the greatest commit number from the multiple commits for gets-diagnosticeventlogger
+03/18/20 21:05:14 INFO commit date for gets-diagnosticeventlogger
+03/18/20 21:05:14 INFO Matched git list from the DEF_Changlist
+03/18/20 21:05:14 INFO Getting Latest Commit No. for Release Branch
+03/18/20 21:05:14 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/git/refs
+03/18/20 21:05:14 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 21:05:14 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:05:14 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/releases
+03/18/20 21:05:14 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 21:05:14 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:05:15 INFO Pre-release Tag is created for gets-diagnosticeventlogger
+03/18/20 21:05:15 INFO created release branch successfully for repo gets-diagnosticeventlogger
+03/18/20 21:05:15 INFO calling the python script to insert the values into database
+03/18/20 21:05:16 INFO Completed getting latest commit number from github
+03/18/20 21:05:16 INFO Getting Maximum Version for Magic Draw
+03/18/20 21:05:16 INFO Completed getting latest commit number from MagicDraw
+03/18/20 21:05:16 INFO All operations completed
+03/18/20 21:05:17 INFO Trying to read repo build types
+03/18/20 21:05:17 INFO Trying to read project id names
+03/18/20 21:05:17 INFO Connecting to the database
+03/18/20 21:05:17 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:05:17 INFO Connected to the database
+03/18/20 21:05:17 INFO creating the audit log table
+03/18/20 21:05:17 INFO Audit log table is created and values inserted
+03/18/20 21:05:17 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:05:17 INFO Verified regular expressions for MD and GIT
+03/18/20 21:05:17 INFO Getting the greatest commit from the multiple commits
+03/18/20 21:05:17 INFO defining the function to create the release branch
+03/18/20 21:05:17 INFO defining the function to create the pre-release tag
+03/18/20 21:05:17 INFO Defining the function to create the Tag in MD
+03/18/20 21:05:17 INFO Running the release script....
+03/18/20 21:05:17 INFO finished running release script...
+03/18/20 21:05:17 INFO Entering into the Main Function
+03/18/20 21:05:17 INFO Verified MCA Platform SW in discriptor
+03/18/20 21:05:17 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/commits/94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:05:17 INFO The Repo Name is gets-config
+03/18/20 21:05:17 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:05:17 INFO Got the greatest commit number from the multiple commits for gets-config
+03/18/20 21:05:17 INFO commit date for gets-config
+03/18/20 21:05:17 INFO Matched git list from the LC_Changelist
+03/18/20 21:05:17 INFO Getting Latest Commit No. for Release Branch
+03/18/20 21:05:18 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/git/refs
+03/18/20 21:05:18 INFO The Repo Name is gets-config
+03/18/20 21:05:18 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:05:18 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/releases
+03/18/20 21:05:18 INFO The Repo Name is gets-config
+03/18/20 21:05:18 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:05:18 INFO Pre-release Tag is created for gets-config
+03/18/20 21:05:18 INFO created release branch successfully for repo gets-config
+03/18/20 21:05:18 INFO calling the python script to insert the values into database
+03/18/20 21:05:19 INFO Completed getting latest commit number from github
+03/18/20 21:05:19 INFO Getting Maximum Version for Magic Draw
+03/18/20 21:05:19 INFO Completed getting latest commit number from MagicDraw
+03/18/20 21:05:19 INFO All operations completed
+03/18/20 21:10:31 INFO Trying to read repo build types
+03/18/20 21:10:31 INFO Trying to read project id names
+03/18/20 21:10:31 INFO Connecting to the database
+03/18/20 21:10:31 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:10:31 INFO Connected to the database
+03/18/20 21:10:31 INFO creating the audit log table
+03/18/20 21:10:31 INFO Audit log table is created and values inserted
+03/18/20 21:10:31 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:10:31 INFO Verified regular expressions for MD and GIT
+03/18/20 21:10:31 INFO Getting the greatest commit from the multiple commits
+03/18/20 21:10:31 INFO defining the function to create the release branch
+03/18/20 21:10:31 INFO defining the function to create the pre-release tag
+03/18/20 21:10:31 INFO Defining the function to create the Tag in MD
+03/18/20 21:10:31 INFO Running the release script....
+03/18/20 21:10:32 INFO finished running release script...
+03/18/20 21:10:32 INFO Entering into the Main Function
+03/18/20 21:10:32 INFO Verified MCA Platform SW in discriptor
+03/18/20 21:10:32 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/commits/af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:10:32 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 21:10:32 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:10:32 INFO Got the greatest commit number from the multiple commits for gets-diagnosticeventlogger
+03/18/20 21:10:32 INFO commit date for gets-diagnosticeventlogger
+03/18/20 21:10:32 INFO Matched git list from the DEF_Changlist
+03/18/20 21:10:32 INFO Getting Latest Commit No. for Release Branch
+03/18/20 21:10:32 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/git/refs
+03/18/20 21:10:32 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 21:10:32 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:10:32 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/releases
+03/18/20 21:10:32 INFO The Repo Name is gets-diagnosticeventlogger
+03/18/20 21:10:32 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+03/18/20 21:10:33 INFO Pre-release Tag is created for gets-diagnosticeventlogger
+03/18/20 21:10:33 INFO created release branch successfully for repo gets-diagnosticeventlogger
+03/18/20 21:10:33 INFO calling the python script to insert the values into database
+03/18/20 21:10:34 INFO Completed getting latest commit number from github
+03/18/20 21:10:34 INFO Getting Maximum Version for Magic Draw
+03/18/20 21:10:34 INFO Completed getting latest commit number from MagicDraw
+03/18/20 21:10:34 INFO All operations completed
+03/18/20 21:10:35 INFO Trying to read repo build types
+03/18/20 21:10:35 INFO Trying to read project id names
+03/18/20 21:10:35 INFO Connecting to the database
+03/18/20 21:10:35 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:10:35 INFO Connected to the database
+03/18/20 21:10:35 INFO creating the audit log table
+03/18/20 21:10:35 INFO Audit log table is created and values inserted
+03/18/20 21:10:35 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:10:35 INFO Verified regular expressions for MD and GIT
+03/18/20 21:10:35 INFO Getting the greatest commit from the multiple commits
+03/18/20 21:10:35 INFO defining the function to create the release branch
+03/18/20 21:10:35 INFO defining the function to create the pre-release tag
+03/18/20 21:10:35 INFO Defining the function to create the Tag in MD
+03/18/20 21:10:35 INFO Running the release script....
+03/18/20 21:10:35 INFO finished running release script...
+03/18/20 21:10:35 INFO Entering into the Main Function
+03/18/20 21:10:35 INFO Verified MCA Platform SW in discriptor
+03/18/20 21:10:35 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/commits/94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:10:35 INFO The Repo Name is gets-config
+03/18/20 21:10:35 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:10:36 INFO Got the greatest commit number from the multiple commits for gets-config
+03/18/20 21:10:36 INFO commit date for gets-config
+03/18/20 21:10:36 INFO Matched git list from the LC_Changelist
+03/18/20 21:10:36 INFO Getting Latest Commit No. for Release Branch
+03/18/20 21:10:36 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/git/refs
+03/18/20 21:10:36 INFO The Repo Name is gets-config
+03/18/20 21:10:36 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:10:36 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config/releases
+03/18/20 21:10:36 INFO The Repo Name is gets-config
+03/18/20 21:10:36 INFO The Commit Number is 94edf4edc8d6b0a16d57b38bdd9a46abe7d31d8b
+03/18/20 21:10:36 INFO Pre-release Tag is created for gets-config
+03/18/20 21:10:36 INFO created release branch successfully for repo gets-config
+03/18/20 21:10:36 INFO calling the python script to insert the values into database
+03/18/20 21:10:37 INFO Completed getting latest commit number from github
+03/18/20 21:10:37 INFO Getting Maximum Version for Magic Draw
+03/18/20 21:10:37 INFO Completed getting latest commit number from MagicDraw
+03/18/20 21:10:37 INFO All operations completed

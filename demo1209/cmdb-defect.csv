@@ -1,0 +1,6 @@
+"id","DEF_DSRVW","Product_Descriptors","Product_Descriptor_Level3","Project.Name","State","VersionFixed","DEF_Changlist"
+"GETS00106929","","MCA Platform SW","gets-diagnosticeventlogger","MCA Phase 2","Developer_Tested","a8bd44b94cfc4ec0d29eb3cd814ae358f06c555b","git"
+"GETS00106430","","MCA Platform SW","gets-diagnosticeventlogger","MCA Phase 2","Assigned","af7db78cc395c8c95d801913b4ca2929d4a6d5b1","git"
+"GETS00109103","","MCA Platform SW","gets-container-service","MCA Phase 2","Developer_Tested","5dedd8f8ee898808644d8518c6b08472a5856196","git"
+"GETS00109144","","MCA Platform SW","gets-config-base","MCA Phase 2","Developer_Tested","741a04948b06aece95e5bd1d4bace4a245ada34d","git"
+"GETS00103694","","MCA System","System Architecture","MCA Phase 2","Developer_Tested","810.0","Basic System Functional Arch Defects"

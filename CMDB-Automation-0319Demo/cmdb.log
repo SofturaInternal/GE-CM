@@ -1,0 +1,374 @@
+01/03/20 12:24:44 INFO The repo name is :
+01/03/20 12:24:44 INFO gets-diagnosticeventlogger
+01/03/20 12:24:44 INFO Connecting to the database
+01/03/20 12:24:44 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:24:44 INFO Connected to the database
+01/03/20 12:24:44 INFO Checking the regular expressions for MD and GIT
+01/03/20 12:24:44 INFO Verified regular expressions for MD and GIT
+01/03/20 12:24:44 INFO creating the audit log table
+01/03/20 12:24:44 INFO Audit log table is created and values inserted
+01/03/20 12:24:44 INFO Inserting the values into Properties table
+01/03/20 12:24:44 INFO Values inserted into Properties table
+01/03/20 12:24:44 INFO Getting the length of Repo table
+01/03/20 12:24:44 INFO Entering into the Main function
+01/03/20 12:24:44 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:24:44 INFO Inserting values into Repo Table
+01/03/20 12:24:44 INFO values inserted into the repo table
+01/03/20 12:24:44 INFO Inserting values into Repo Commits Table
+01/03/20 12:28:10 INFO The repo name is :
+01/03/20 12:28:10 INFO gets-diagnosticeventlogger
+01/03/20 12:28:10 INFO Connecting to the database
+01/03/20 12:28:10 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:28:10 INFO Connected to the database
+01/03/20 12:28:10 INFO Checking the regular expressions for MD and GIT
+01/03/20 12:28:10 INFO Verified regular expressions for MD and GIT
+01/03/20 12:28:10 INFO creating the audit log table
+01/03/20 12:28:10 INFO Audit log table is created and values inserted
+01/03/20 12:28:10 INFO Inserting the values into Properties table
+01/03/20 12:28:10 INFO Values inserted into Properties table
+01/03/20 12:28:10 INFO Getting the length of Repo table
+01/03/20 12:28:10 INFO Entering into the Main function
+01/03/20 12:28:10 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:28:10 INFO Inserting values into Repo Table
+01/03/20 12:28:10 INFO values inserted into the repo table
+01/03/20 12:28:10 INFO Inserting values into Repo Commits Table
+01/03/20 12:31:36 INFO The repo name is :
+01/03/20 12:31:36 INFO gets-diagnosticeventlogger
+01/03/20 12:31:36 INFO Connecting to the database
+01/03/20 12:31:36 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:31:36 INFO Connected to the database
+01/03/20 12:31:36 INFO Checking the regular expressions for MD and GIT
+01/03/20 12:31:36 INFO Verified regular expressions for MD and GIT
+01/03/20 12:31:36 INFO creating the audit log table
+01/03/20 12:31:36 INFO Audit log table is created and values inserted
+01/03/20 12:31:36 INFO Inserting the values into Properties table
+01/03/20 12:31:36 INFO Values inserted into Properties table
+01/03/20 12:31:36 INFO Getting the length of Repo table
+01/03/20 12:31:36 INFO Entering into the Main function
+01/03/20 12:31:36 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:31:36 INFO Inserting values into Repo Table
+01/03/20 12:31:36 INFO values inserted into the repo table
+01/03/20 12:31:36 INFO Inserting values into Repo Commits Table
+01/03/20 12:31:44 INFO Matched git list from the DEF_Changlist
+01/03/20 12:31:44 ERROR Failed to insert values into repo commits table
+01/03/20 12:31:44 ERROR 1054 (42S22): Unknown column 'nan' in 'field list'
+01/03/20 12:36:46 INFO The repo name is :
+01/03/20 12:36:46 INFO gets-diagnosticeventlogger
+01/03/20 12:36:46 INFO Connecting to the database
+01/03/20 12:36:46 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:36:46 INFO Connected to the database
+01/03/20 12:36:46 INFO Checking the regular expressions for MD and GIT
+01/03/20 12:36:46 INFO Verified regular expressions for MD and GIT
+01/03/20 12:36:46 INFO creating the audit log table
+01/03/20 12:36:46 INFO Audit log table is created and values inserted
+01/03/20 12:36:46 INFO Inserting the values into Properties table
+01/03/20 12:36:46 INFO Values inserted into Properties table
+01/03/20 12:36:46 INFO Getting the length of Repo table
+01/03/20 12:36:46 INFO Entering into the Main function
+01/03/20 12:36:46 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:36:46 INFO Inserting values into Repo Table
+01/03/20 12:36:46 INFO values inserted into the repo table
+01/03/20 12:36:46 INFO Inserting values into Repo Commits Table
+01/03/20 12:36:54 INFO Matched git list from the DEF_Changlist
+01/03/20 12:36:54 ERROR Failed to insert values into repo commits table
+01/03/20 12:36:54 ERROR 1054 (42S22): Unknown column 'nan' in 'field list'
+01/03/20 12:49:23 INFO The repo name is :
+01/03/20 12:49:23 INFO gets-diagnosticeventlogger
+01/03/20 12:49:23 INFO Connecting to the database
+01/03/20 12:49:23 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:49:23 INFO Connected to the database
+01/03/20 12:49:23 INFO Checking the regular expressions for MD and GIT
+01/03/20 12:49:23 INFO Verified regular expressions for MD and GIT
+01/03/20 12:49:23 INFO creating the audit log table
+01/03/20 12:49:23 INFO Audit log table is created and values inserted
+01/03/20 12:49:23 INFO Inserting the values into Properties table
+01/03/20 12:49:23 INFO Values inserted into Properties table
+01/03/20 12:49:23 INFO Getting the length of Repo table
+01/03/20 12:49:23 INFO Entering into the Main function
+01/03/20 12:49:23 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:49:23 INFO Inserting values into Repo Table
+01/03/20 12:49:23 INFO values inserted into the repo table
+01/03/20 12:49:23 INFO Inserting values into Repo Commits Table
+01/03/20 12:49:31 INFO Matched git list from the DEF_Changlist
+01/03/20 12:49:31 ERROR Failed to insert values into repo commits table
+01/03/20 12:49:31 ERROR 1054 (42S22): Unknown column 'nan' in 'field list'
+01/03/20 13:44:30 INFO The repo name is :
+01/03/20 13:44:30 INFO gets-diagnosticeventlogger
+01/03/20 13:44:30 INFO Connecting to the database
+01/03/20 13:44:30 INFO Connected to the mysql database 3.125.182.23
+01/03/20 13:44:30 INFO Connected to the database
+01/03/20 13:44:30 INFO Checking the regular expressions for MD and GIT
+01/03/20 13:44:30 INFO Verified regular expressions for MD and GIT
+01/03/20 13:44:30 INFO creating the audit log table
+01/03/20 13:44:30 INFO Audit log table is created and values inserted
+01/03/20 13:44:30 INFO Inserting the values into Properties table
+01/03/20 13:44:30 INFO Values inserted into Properties table
+01/03/20 13:44:30 INFO Getting the length of Repo table
+01/03/20 13:44:30 INFO Entering into the Main function
+01/03/20 13:44:30 INFO Reading values from cmdb-defect.csv file
+01/03/20 13:44:30 INFO Inserting values into Repo Table
+01/03/20 13:44:30 INFO values inserted into the repo table
+01/03/20 13:44:30 INFO Inserting values into Repo Commits Table
+01/03/20 13:44:30 INFO Matched git list from the DEF_Changlist
+01/03/20 13:44:30 ERROR Failed to insert values into repo commits table
+01/03/20 13:44:30 ERROR 1054 (42S22): Unknown column 'nan' in 'field list'
+01/03/20 13:50:27 INFO The repo name is :
+01/03/20 13:50:27 INFO gets-diagnosticeventlogger
+01/03/20 13:50:27 INFO Connecting to the database
+01/03/20 13:50:27 INFO Connected to the mysql database 3.125.182.23
+01/03/20 13:50:27 INFO Connected to the database
+01/03/20 13:50:27 INFO Checking the regular expressions for MD and GIT
+01/03/20 13:50:27 INFO Verified regular expressions for MD and GIT
+01/03/20 13:50:27 INFO creating the audit log table
+01/03/20 13:50:27 INFO Audit log table is created and values inserted
+01/03/20 13:50:27 INFO Inserting the values into Properties table
+01/03/20 13:50:27 INFO Values inserted into Properties table
+01/03/20 13:50:27 INFO Getting the length of Repo table
+01/03/20 13:50:27 INFO Entering into the Main function
+01/03/20 13:50:27 INFO Reading values from cmdb-defect.csv file
+01/03/20 13:50:27 INFO Inserting values into Repo Table
+01/03/20 13:50:27 INFO values inserted into the repo table
+01/03/20 13:50:27 INFO Inserting values into Repo Commits Table
+01/03/20 13:50:27 INFO Matched git list from the DEF_Changlist
+01/03/20 13:50:27 INFO values inserted into the repo commits table
+01/03/20 13:53:22 INFO The repo name is :
+01/03/20 13:53:22 INFO gets-config
+01/03/20 13:53:22 INFO Connecting to the database
+01/03/20 13:53:22 INFO Connected to the mysql database 3.125.182.23
+01/03/20 13:53:22 INFO Connected to the database
+01/03/20 13:53:22 INFO Checking the regular expressions for MD and GIT
+01/03/20 13:53:22 INFO Verified regular expressions for MD and GIT
+01/03/20 13:53:22 INFO creating the audit log table
+01/03/20 13:53:22 INFO Audit log table is created and values inserted
+01/03/20 13:53:22 INFO Inserting the values into Properties table
+01/03/20 13:53:22 INFO Values inserted into Properties table
+01/03/20 13:53:22 INFO Getting the length of Repo table
+01/03/20 13:53:22 INFO Entering into the Main function
+01/03/20 13:53:22 INFO Reading values from cmdb-defect.csv file
+01/03/20 13:53:22 INFO Inserting values into Repo Table
+01/03/20 14:34:32 INFO The repo name is :
+01/03/20 14:34:32 INFO gets-config
+01/03/20 14:34:32 INFO Connecting to the database
+01/03/20 14:34:32 INFO Connected to the mysql database 3.125.182.23
+01/03/20 14:34:32 INFO Connected to the database
+01/03/20 14:34:32 INFO Checking the regular expressions for MD and GIT
+01/03/20 14:34:32 INFO Verified regular expressions for MD and GIT
+01/03/20 14:34:32 INFO creating the audit log table
+01/03/20 14:34:32 INFO Audit log table is created and values inserted
+01/03/20 14:34:32 INFO Inserting the values into Properties table
+01/03/20 14:34:32 INFO Values inserted into Properties table
+01/03/20 14:34:32 INFO Getting the length of Repo table
+01/03/20 14:34:32 INFO Entering into the Main function
+01/03/20 14:34:32 INFO Reading values from cmdb-defect.csv file
+01/03/20 14:34:32 INFO Inserting values into Repo Table
+01/03/20 14:34:32 INFO values inserted into the repo table
+01/03/20 14:34:32 INFO Inserting values into Repo Commits Table
+01/03/20 14:36:16 INFO The repo name is :
+01/03/20 14:36:16 INFO gets-config
+01/03/20 14:36:16 INFO Connecting to the database
+01/03/20 14:36:16 INFO Connected to the mysql database 3.125.182.23
+01/03/20 14:36:16 INFO Connected to the database
+01/03/20 14:36:16 INFO Checking the regular expressions for MD and GIT
+01/03/20 14:36:16 INFO Verified regular expressions for MD and GIT
+01/03/20 14:36:16 INFO creating the audit log table
+01/03/20 14:36:16 INFO Audit log table is created and values inserted
+01/03/20 14:36:16 INFO Inserting the values into Properties table
+01/03/20 14:36:16 INFO Values inserted into Properties table
+01/03/20 14:36:16 INFO Getting the length of Repo table
+01/03/20 14:36:16 INFO Entering into the Main function
+01/03/20 14:36:16 INFO Reading values from cmdb-defect.csv file
+01/03/20 14:36:16 INFO Inserting values into Repo Table
+01/03/20 14:36:16 INFO values inserted into the repo table
+01/03/20 14:36:16 INFO Inserting values into Repo Commits Table
+01/03/20 14:36:16 INFO Matched git list from the DEF_Changlist
+01/03/20 14:36:16 INFO values inserted into the repo commits table
+01/03/20 14:38:42 INFO The repo name is :
+01/03/20 14:38:42 INFO gets-config
+01/03/20 14:38:42 INFO Connecting to the database
+01/03/20 14:38:42 INFO Connected to the mysql database 3.125.182.23
+01/03/20 14:38:42 INFO Connected to the database
+01/03/20 14:38:42 INFO Checking the regular expressions for MD and GIT
+01/03/20 14:38:42 INFO Verified regular expressions for MD and GIT
+01/03/20 14:38:42 INFO creating the audit log table
+01/03/20 14:38:42 INFO Audit log table is created and values inserted
+01/03/20 14:38:42 INFO Inserting the values into Properties table
+01/03/20 14:38:42 INFO Values inserted into Properties table
+01/03/20 14:38:42 INFO Getting the length of Repo table
+01/03/20 14:38:43 INFO Entering into the Main function
+01/03/20 14:38:43 INFO Reading values from cmdb-defect.csv file
+01/03/20 14:38:43 INFO Inserting values into Repo Table
+01/03/20 14:38:43 INFO values inserted into the repo table
+01/03/20 14:38:43 INFO Inserting values into Repo Commits Table
+01/03/20 14:38:43 INFO Matched git list from the DEF_Changlist
+01/03/20 14:38:43 INFO values inserted into the repo commits table
+01/03/20 14:41:41 INFO The repo name is :
+01/03/20 14:41:41 INFO gets-diagnosticeventlogger
+01/03/20 14:41:41 INFO Connecting to the database
+01/03/20 14:41:41 INFO Connected to the mysql database 3.125.182.23
+01/03/20 14:41:41 INFO Connected to the database
+01/03/20 14:41:41 INFO Checking the regular expressions for MD and GIT
+01/03/20 14:41:41 INFO Verified regular expressions for MD and GIT
+01/03/20 14:41:41 INFO creating the audit log table
+01/03/20 14:41:41 INFO Audit log table is created and values inserted
+01/03/20 14:41:41 INFO Inserting the values into Properties table
+01/03/20 14:41:41 INFO Values inserted into Properties table
+01/03/20 14:41:41 INFO Getting the length of Repo table
+01/03/20 14:41:41 INFO Entering into the Main function
+01/03/20 14:41:41 INFO Reading values from cmdb-defect.csv file
+01/03/20 14:41:41 INFO Inserting values into Repo Table
+01/03/20 14:41:41 INFO values inserted into the repo table
+01/03/20 14:41:41 INFO Inserting values into Repo Commits Table
+01/03/20 14:41:41 INFO Matched git list from the DEF_Changlist
+01/03/20 14:41:41 INFO values inserted into the repo commits table
+01/03/20 14:41:44 INFO The repo name is :
+01/03/20 14:41:44 INFO gets-config
+01/03/20 14:41:44 INFO Connecting to the database
+01/03/20 14:41:44 INFO Connected to the mysql database 3.125.182.23
+01/03/20 14:41:44 INFO Connected to the database
+01/03/20 14:41:44 INFO Checking the regular expressions for MD and GIT
+01/03/20 14:41:44 INFO Verified regular expressions for MD and GIT
+01/03/20 14:41:44 INFO creating the audit log table
+01/03/20 14:41:44 INFO Audit log table is created and values inserted
+01/03/20 14:41:44 INFO Inserting the values into Properties table
+01/03/20 14:41:44 INFO Values inserted into Properties table
+01/03/20 14:41:44 INFO Getting the length of Repo table
+01/03/20 14:41:44 INFO Entering into the Main function
+01/03/20 14:41:44 INFO Reading values from cmdb-defect.csv file
+01/03/20 14:41:44 INFO Inserting values into Repo Table
+01/03/20 14:41:44 INFO values inserted into the repo table
+01/03/20 14:41:44 INFO Inserting values into Repo Commits Table
+01/03/20 14:41:44 INFO Matched git list from the DEF_Changlist
+01/03/20 14:41:44 INFO values inserted into the repo commits table
+03/18/20 20:07:56 INFO The repo name is :
+03/18/20 20:07:56 INFO gets-config
+03/18/20 20:07:56 INFO Connecting to the database
+03/18/20 20:07:56 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:07:56 INFO Connected to the database
+03/18/20 20:07:56 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:07:56 INFO Verified regular expressions for MD and GIT
+03/18/20 20:07:56 INFO creating the audit log table
+03/18/20 20:07:56 INFO Audit log table is created and values inserted
+03/18/20 20:07:56 INFO Inserting the values into Properties table
+03/18/20 20:07:56 INFO Values inserted into Properties table
+03/18/20 20:07:56 INFO Getting the length of Repo table
+03/18/20 20:07:56 INFO Entering into the Main function
+03/18/20 20:07:56 INFO Reading values from cmdb-defect.csv file
+03/18/20 20:07:56 INFO Inserting values into Repo Table
+03/18/20 20:07:56 INFO values inserted into the repo table
+03/18/20 20:07:56 INFO Inserting values into Repo Commits Table
+03/18/20 20:07:56 INFO Matched git list from the DEF_Changlist
+03/18/20 20:07:56 INFO values inserted into the repo commits table
+03/18/20 20:20:32 INFO The repo name is :
+03/18/20 20:20:32 INFO gets-config
+03/18/20 20:20:32 INFO Connecting to the database
+03/18/20 20:20:32 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:20:32 INFO Connected to the database
+03/18/20 20:20:32 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:20:32 INFO Verified regular expressions for MD and GIT
+03/18/20 20:20:32 INFO creating the audit log table
+03/18/20 20:20:32 INFO Audit log table is created and values inserted
+03/18/20 20:20:32 INFO Inserting the values into Properties table
+03/18/20 20:20:32 INFO Values inserted into Properties table
+03/18/20 20:20:32 INFO Getting the length of Repo table
+03/18/20 20:20:32 INFO Entering into the Main function
+03/18/20 20:20:32 INFO Reading values from cmdb-defect.csv file
+03/18/20 20:20:32 INFO Inserting values into Repo Table
+03/18/20 20:20:32 INFO values inserted into the repo table
+03/18/20 20:20:32 INFO Inserting values into Repo Commits Table
+03/18/20 20:20:32 INFO Matched git list from the DEF_Changlist
+03/18/20 20:20:32 INFO values inserted into the repo commits table
+03/18/20 20:55:39 INFO The repo name is :
+03/18/20 20:55:39 INFO gets-diagnosticeventlogger
+03/18/20 20:55:39 INFO Connecting to the database
+03/18/20 20:55:39 INFO Connected to the mysql database 3.125.182.23
+03/18/20 20:55:39 INFO Connected to the database
+03/18/20 20:55:39 INFO Checking the regular expressions for MD and GIT
+03/18/20 20:55:39 INFO Verified regular expressions for MD and GIT
+03/18/20 20:55:39 INFO creating the audit log table
+03/18/20 20:55:39 INFO Audit log table is created and values inserted
+03/18/20 20:55:39 INFO Inserting the values into Properties table
+03/18/20 20:55:39 INFO Values inserted into Properties table
+03/18/20 20:55:39 INFO Getting the length of Repo table
+03/18/20 20:55:39 INFO Entering into the Main function
+03/18/20 20:55:39 INFO Reading values from cmdb-defect.csv file
+03/18/20 20:55:39 INFO Inserting values into Repo Table
+03/18/20 20:55:39 INFO values inserted into the repo table
+03/18/20 20:55:39 INFO Inserting values into Repo Commits Table
+03/18/20 20:55:39 INFO Matched git list from the DEF_Changlist
+03/18/20 20:55:39 INFO values inserted into the repo commits table
+03/18/20 21:05:15 INFO The repo name is :
+03/18/20 21:05:15 INFO gets-diagnosticeventlogger
+03/18/20 21:05:15 INFO Connecting to the database
+03/18/20 21:05:15 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:05:15 INFO Connected to the database
+03/18/20 21:05:15 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:05:15 INFO Verified regular expressions for MD and GIT
+03/18/20 21:05:15 INFO creating the audit log table
+03/18/20 21:05:15 INFO Audit log table is created and values inserted
+03/18/20 21:05:15 INFO Inserting the values into Properties table
+03/18/20 21:05:15 INFO Values inserted into Properties table
+03/18/20 21:05:15 INFO Getting the length of Repo table
+03/18/20 21:05:15 INFO Entering into the Main function
+03/18/20 21:05:15 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:05:15 INFO Inserting values into Repo Table
+03/18/20 21:05:15 INFO values inserted into the repo table
+03/18/20 21:05:15 INFO Inserting values into Repo Commits Table
+03/18/20 21:05:15 INFO Matched git list from the DEF_Changlist
+03/18/20 21:05:15 INFO values inserted into the repo commits table
+03/18/20 21:05:19 INFO The repo name is :
+03/18/20 21:05:19 INFO gets-config
+03/18/20 21:05:19 INFO Connecting to the database
+03/18/20 21:05:19 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:05:19 INFO Connected to the database
+03/18/20 21:05:19 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:05:19 INFO Verified regular expressions for MD and GIT
+03/18/20 21:05:19 INFO creating the audit log table
+03/18/20 21:05:19 INFO Audit log table is created and values inserted
+03/18/20 21:05:19 INFO Inserting the values into Properties table
+03/18/20 21:05:19 INFO Values inserted into Properties table
+03/18/20 21:05:19 INFO Getting the length of Repo table
+03/18/20 21:05:19 INFO Entering into the Main function
+03/18/20 21:05:19 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:05:19 INFO Inserting values into Repo Table
+03/18/20 21:05:19 INFO values inserted into the repo table
+03/18/20 21:05:19 INFO Inserting values into Repo Commits Table
+03/18/20 21:05:19 INFO Matched git list from the DEF_Changlist
+03/18/20 21:05:19 INFO values inserted into the repo commits table
+03/18/20 21:10:33 INFO The repo name is :
+03/18/20 21:10:33 INFO gets-diagnosticeventlogger
+03/18/20 21:10:33 INFO Connecting to the database
+03/18/20 21:10:33 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:10:33 INFO Connected to the database
+03/18/20 21:10:33 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:10:33 INFO Verified regular expressions for MD and GIT
+03/18/20 21:10:33 INFO creating the audit log table
+03/18/20 21:10:33 INFO Audit log table is created and values inserted
+03/18/20 21:10:33 INFO Inserting the values into Properties table
+03/18/20 21:10:33 INFO Values inserted into Properties table
+03/18/20 21:10:33 INFO Getting the length of Repo table
+03/18/20 21:10:33 INFO Entering into the Main function
+03/18/20 21:10:33 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:10:33 INFO Inserting values into Repo Table
+03/18/20 21:10:33 INFO values inserted into the repo table
+03/18/20 21:10:33 INFO Inserting values into Repo Commits Table
+03/18/20 21:10:33 INFO Matched git list from the DEF_Changlist
+03/18/20 21:10:33 INFO values inserted into the repo commits table
+03/18/20 21:10:37 INFO The repo name is :
+03/18/20 21:10:37 INFO gets-config
+03/18/20 21:10:37 INFO Connecting to the database
+03/18/20 21:10:37 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:10:37 INFO Connected to the database
+03/18/20 21:10:37 INFO Checking the regular expressions for MD and GIT
+03/18/20 21:10:37 INFO Verified regular expressions for MD and GIT
+03/18/20 21:10:37 INFO creating the audit log table
+03/18/20 21:10:37 INFO Audit log table is created and values inserted
+03/18/20 21:10:37 INFO Inserting the values into Properties table
+03/18/20 21:10:37 INFO Values inserted into Properties table
+03/18/20 21:10:37 INFO Getting the length of Repo table
+03/18/20 21:10:37 INFO Entering into the Main function
+03/18/20 21:10:37 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:10:37 INFO Inserting values into Repo Table
+03/18/20 21:10:37 INFO values inserted into the repo table
+03/18/20 21:10:37 INFO Inserting values into Repo Commits Table
+03/18/20 21:10:37 INFO Matched git list from the DEF_Changlist
+03/18/20 21:10:37 INFO values inserted into the repo commits table

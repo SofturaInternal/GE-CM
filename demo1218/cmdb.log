@@ -1,0 +1,719 @@
+12/08/19 17:28:42 INFO The Release Branch name is  IVV-PLT-2019.1208.0700
+12/08/19 17:28:42 INFO Connecting to the database
+12/08/19 17:28:42 INFO Connected to the mysql database 3.125.182.23
+12/08/19 17:28:42 INFO Connected to the database
+12/08/19 17:28:42 INFO creating the audit log table
+12/08/19 17:28:42 INFO Audit log table is created and values inserted
+12/08/19 17:28:42 INFO Converting QueryResult xls file csv
+12/08/19 17:28:42 INFO QueryResult xls file is converted to csv
+12/08/19 17:28:42 INFO Reading the values from Properties table
+12/08/19 17:28:42 INFO Values read from the Properties table
+12/08/19 17:28:42 INFO Getting the length of Release Table
+12/08/19 17:28:42 INFO Entering into the Main function
+12/08/19 17:28:42 INFO Reading values from cmdb-defect.csv file
+12/08/19 17:28:50 INFO Inserting the values into the release table
+12/08/19 17:28:50 INFO values inserted into the release table
+12/09/19 10:30:09 INFO The Release Branch name is  IVV-PLT-2019.1209.1030
+12/09/19 10:30:09 INFO Connecting to the database
+12/09/19 10:30:09 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:09 INFO Connected to the database
+12/09/19 10:30:09 INFO creating the audit log table
+12/09/19 10:30:09 INFO Audit log table is created and values inserted
+12/09/19 10:30:09 INFO Converting QueryResult xls file csv
+12/09/19 10:30:09 INFO QueryResult xls file is converted to csv
+12/09/19 10:30:09 INFO Reading the values from Properties table
+12/09/19 10:30:09 INFO Values read from the Properties table
+12/09/19 10:30:09 INFO Getting the length of Release Table
+12/09/19 10:30:09 INFO Entering into the Main function
+12/09/19 10:30:09 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:17 INFO Inserting the values into the release table
+12/09/19 10:30:17 INFO values inserted into the release table
+12/09/19 10:51:06 INFO Connecting to the database
+12/09/19 10:51:06 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:51:06 INFO Connected to the database
+12/09/19 10:51:06 INFO creating the audit log table
+12/09/19 10:51:06 INFO Audit log table is created and values inserted
+12/09/19 10:51:06 INFO Getting the Entry of Release table
+12/09/19 10:51:06 INFO Inserting the values into Repo table
+12/09/19 10:51:06 INFO Values inserted into Repo table
+12/09/19 10:51:06 INFO Entering into the Main function
+12/09/19 10:51:06 INFO values inserted into the repo table
+12/09/19 10:51:06 INFO values inserted into the database
+12/09/19 12:01:17 INFO The Release Branch name is  IVV-PLT-2019.1209.1200
+12/09/19 12:01:17 INFO Connecting to the database
+12/09/19 12:01:17 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:01:17 INFO Connected to the database
+12/09/19 12:01:17 INFO creating the audit log table
+12/09/19 12:01:17 INFO Audit log table is created and values inserted
+12/09/19 12:01:17 INFO Converting QueryResult xls file csv
+12/09/19 12:01:17 INFO QueryResult xls file is converted to csv
+12/09/19 12:01:17 INFO Reading the values from Properties table
+12/09/19 12:01:17 INFO Values read from the Properties table
+12/09/19 12:01:17 INFO Getting the length of Release Table
+12/09/19 12:01:17 INFO Entering into the Main function
+12/09/19 12:01:17 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:01:26 INFO Inserting the values into the release table
+12/09/19 12:01:26 INFO values inserted into the release table
+12/09/19 12:16:11 INFO The Release Branch name is  IVV-PLT-2019.1209.1215
+12/09/19 12:16:11 INFO Connecting to the database
+12/09/19 12:16:11 INFO Connected to the mysql database 3.125.182.23
+12/09/19 12:16:11 INFO Connected to the database
+12/09/19 12:16:11 INFO creating the audit log table
+12/09/19 12:16:11 INFO Audit log table is created and values inserted
+12/09/19 12:16:11 INFO Converting QueryResult xls file csv
+12/09/19 12:16:11 INFO QueryResult xls file is converted to csv
+12/09/19 12:16:11 INFO Reading the values from Properties table
+12/09/19 12:16:11 INFO Values read from the Properties table
+12/09/19 12:16:11 INFO Getting the length of Release Table
+12/09/19 12:16:11 INFO Entering into the Main function
+12/09/19 12:16:11 INFO Reading values from cmdb-defect.csv file
+12/09/19 12:16:20 INFO Inserting the values into the release table
+12/09/19 12:16:20 INFO values inserted into the release table
+12/09/19 13:34:49 INFO The Release Branch name is  IVV-PLT-2019.1209.0130
+12/09/19 13:34:49 INFO Connecting to the database
+12/09/19 13:34:49 INFO Connected to the mysql database 3.125.182.23
+12/09/19 13:34:49 INFO Connected to the database
+12/09/19 13:34:49 INFO creating the audit log table
+12/09/19 13:34:49 INFO Audit log table is created and values inserted
+12/09/19 13:34:49 INFO Converting QueryResult xls file csv
+12/09/19 13:34:49 INFO QueryResult xls file is converted to csv
+12/09/19 13:34:49 INFO Reading the values from Properties table
+12/09/19 13:34:49 INFO Values read from the Properties table
+12/09/19 13:34:49 INFO Getting the length of Release Table
+12/09/19 13:34:49 INFO Entering into the Main function
+12/09/19 13:34:49 INFO Reading values from cmdb-defect.csv file
+12/09/19 13:35:09 INFO Inserting the values into the release table
+12/09/19 13:35:09 INFO values inserted into the release table
+12/09/19 14:30:48 INFO The Release Branch name is  IVV-PLT-2019.0912.0230
+12/09/19 14:30:48 INFO Connecting to the database
+12/09/19 14:30:48 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:30:48 INFO Connected to the database
+12/09/19 14:30:48 INFO creating the audit log table
+12/09/19 14:30:48 INFO Audit log table is created and values inserted
+12/09/19 14:30:48 INFO Converting QueryResult xls file csv
+12/09/19 14:30:49 INFO QueryResult xls file is converted to csv
+12/09/19 14:30:49 INFO Reading the values from Properties table
+12/09/19 14:30:49 INFO Values read from the Properties table
+12/09/19 14:30:49 INFO Getting the length of Release Table
+12/09/19 14:30:49 INFO Entering into the Main function
+12/09/19 14:30:49 INFO Reading values from cmdb-defect.csv file
+12/09/19 14:30:58 INFO Inserting the values into the release table
+12/09/19 14:30:58 INFO values inserted into the release table
+12/09/19 14:41:13 INFO Connecting to the database
+12/09/19 14:41:13 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:41:13 INFO Connected to the database
+12/09/19 14:41:13 INFO creating the audit log table
+12/09/19 14:41:13 INFO Audit log table is created and values inserted
+12/09/19 14:41:13 INFO Getting the Entry of Release table
+12/09/19 14:41:44 INFO Connecting to the database
+12/09/19 14:41:44 INFO Connected to the mysql database 3.125.182.23
+12/09/19 14:41:44 INFO Connected to the database
+12/09/19 14:41:44 INFO creating the audit log table
+12/09/19 14:41:44 INFO Audit log table is created and values inserted
+12/09/19 14:41:44 INFO Getting the Entry of Release table
+12/17/19 10:58:42 INFO The Release Branch name is  IVV-PLT-2019.1217.1100
+12/17/19 10:58:42 INFO Connecting to the database
+12/17/19 10:58:42 INFO Connected to the mysql database 3.125.182.23
+12/17/19 10:58:42 INFO Connected to the database
+12/17/19 10:58:42 INFO creating the audit log table
+12/17/19 10:58:42 INFO Audit log table is created and values inserted
+12/17/19 10:58:42 INFO Converting QueryResult xls file csv
+12/17/19 10:58:42 INFO QueryResult xls file is converted to csv
+12/17/19 10:58:42 INFO Reading the values from Properties table
+12/17/19 10:58:42 INFO Values read from the Properties table
+12/17/19 10:58:42 INFO Getting the length of Release Table
+12/17/19 10:58:42 INFO Entering into the Main function
+12/17/19 10:58:42 INFO Reading values from cmdb-defect.csv file
+12/17/19 10:58:52 INFO Inserting the values into the release table
+12/17/19 10:58:52 INFO values inserted into the release table
+12/17/19 13:09:54 INFO The Release Branch name is  IVV-PLT-1217
+12/17/19 13:09:54 INFO Connecting to the database
+12/17/19 13:09:54 INFO Connected to the mysql database 3.125.182.23
+12/17/19 13:09:54 INFO Connected to the database
+12/17/19 13:09:54 INFO creating the audit log table
+12/17/19 13:09:54 INFO Audit log table is created and values inserted
+12/17/19 13:09:54 INFO Converting QueryResult xls file csv
+12/17/19 13:09:54 INFO QueryResult xls file is converted to csv
+12/17/19 13:09:54 INFO Reading the values from Properties table
+12/17/19 13:09:54 INFO Values read from the Properties table
+12/17/19 13:09:54 INFO Getting the length of Release Table
+12/17/19 13:09:54 INFO Entering into the Main function
+12/17/19 13:09:54 INFO Reading values from cmdb-defect.csv file
+12/17/19 13:10:03 INFO Inserting the values into the release table
+12/17/19 13:10:03 INFO values inserted into the release table
+12/17/19 13:49:09 INFO The Release Branch name is  IVV-PLT-1217.0200
+12/17/19 13:49:09 INFO Connecting to the database
+12/17/19 13:49:09 INFO Connected to the mysql database 3.125.182.23
+12/17/19 13:49:09 INFO Connected to the database
+12/17/19 13:49:09 INFO creating the audit log table
+12/17/19 13:49:09 INFO Audit log table is created and values inserted
+12/17/19 13:49:09 INFO Converting QueryResult xls file csv
+12/17/19 13:49:09 INFO QueryResult xls file is converted to csv
+12/17/19 13:49:09 INFO Reading the values from Properties table
+12/17/19 13:49:09 INFO Values read from the Properties table
+12/17/19 13:49:09 INFO Getting the length of Release Table
+12/17/19 13:49:09 INFO Entering into the Main function
+12/17/19 13:49:09 INFO Reading values from cmdb-defect.csv file
+12/17/19 13:49:18 INFO Inserting the values into the release table
+12/17/19 13:49:18 INFO values inserted into the release table
+12/17/19 15:26:45 INFO The Release Branch name is  IVV-PLT-1217.0330
+12/17/19 15:26:45 INFO Connecting to the database
+12/17/19 15:26:45 INFO Connected to the mysql database 3.125.182.23
+12/17/19 15:26:45 INFO Connected to the database
+12/17/19 15:26:45 INFO creating the audit log table
+12/17/19 15:26:45 INFO Audit log table is created and values inserted
+12/17/19 15:26:45 INFO Converting QueryResult xls file csv
+12/17/19 15:26:45 INFO QueryResult xls file is converted to csv
+12/17/19 15:26:45 INFO Reading the values from Properties table
+12/17/19 15:26:45 INFO Values read from the Properties table
+12/17/19 15:26:45 INFO Getting the length of Release Table
+12/17/19 15:26:45 INFO Entering into the Main function
+12/17/19 15:26:45 INFO Reading values from cmdb-defect.csv file
+12/17/19 15:26:54 INFO Inserting the values into the release table
+12/17/19 15:26:54 INFO values inserted into the release table
+12/17/19 15:51:51 INFO The Release Branch name is  IVV-PLT-2019.1217.0400
+12/17/19 15:51:51 INFO Connecting to the database
+12/17/19 15:51:51 INFO Connected to the mysql database 3.125.182.23
+12/17/19 15:51:51 INFO Connected to the database
+12/17/19 15:51:51 INFO creating the audit log table
+12/17/19 15:51:51 INFO Audit log table is created and values inserted
+12/17/19 15:51:51 INFO Converting QueryResult xls file csv
+12/17/19 15:51:51 INFO QueryResult xls file is converted to csv
+12/17/19 15:51:51 INFO Reading the values from Properties table
+12/17/19 15:51:51 INFO Values read from the Properties table
+12/17/19 15:51:51 INFO Getting the length of Release Table
+12/17/19 15:51:51 INFO Entering into the Main function
+12/17/19 15:51:51 INFO Reading values from cmdb-defect.csv file
+12/17/19 15:52:00 INFO Inserting the values into the release table
+12/17/19 15:52:00 INFO values inserted into the release table
+12/17/19 15:57:18 INFO The Release Branch name is  IVV-PLT-2019.1217.0430
+12/17/19 15:57:18 INFO Connecting to the database
+12/17/19 15:57:18 INFO Connected to the mysql database 3.125.182.23
+12/17/19 15:57:18 INFO Connected to the database
+12/17/19 15:57:18 INFO creating the audit log table
+12/17/19 15:57:18 INFO Audit log table is created and values inserted
+12/17/19 15:57:18 INFO Converting QueryResult xls file csv
+12/17/19 15:57:18 INFO QueryResult xls file is converted to csv
+12/17/19 15:57:18 INFO Reading the values from Properties table
+12/17/19 15:57:18 INFO Values read from the Properties table
+12/17/19 15:57:18 INFO Getting the length of Release Table
+12/17/19 15:57:18 INFO Entering into the Main function
+12/17/19 15:57:18 INFO Reading values from cmdb-defect.csv file
+12/17/19 15:57:28 INFO Inserting the values into the release table
+12/17/19 15:57:28 INFO values inserted into the release table
+12/17/19 16:49:29 INFO The Release Branch name is  IVV-PLT-2019.1217.0500
+12/17/19 16:49:29 INFO Connecting to the database
+12/17/19 16:49:29 INFO Connected to the mysql database 3.125.182.23
+12/17/19 16:49:29 INFO Connected to the database
+12/17/19 16:49:29 INFO creating the audit log table
+12/17/19 16:49:29 INFO Audit log table is created and values inserted
+12/17/19 16:49:29 INFO Converting QueryResult xls file csv
+12/17/19 16:49:29 INFO QueryResult xls file is converted to csv
+12/17/19 16:49:29 INFO Reading the values from Properties table
+12/17/19 16:49:29 INFO Values read from the Properties table
+12/17/19 16:49:29 INFO Getting the length of Release Table
+12/17/19 16:49:29 INFO Entering into the Main function
+12/17/19 16:49:29 INFO Reading values from cmdb-defect.csv file
+12/17/19 16:49:38 INFO Inserting the values into the release table
+12/17/19 16:49:38 INFO values inserted into the release table
+12/17/19 17:04:13 INFO The Release Branch name is  IVV-PLT-2019.1217.0600
+12/17/19 17:04:13 INFO Connecting to the database
+12/17/19 17:04:13 INFO Connected to the mysql database 3.125.182.23
+12/17/19 17:04:13 INFO Connected to the database
+12/17/19 17:04:13 INFO creating the audit log table
+12/17/19 17:04:13 INFO Audit log table is created and values inserted
+12/17/19 17:04:13 INFO Converting QueryResult xls file csv
+12/17/19 17:04:13 INFO QueryResult xls file is converted to csv
+12/17/19 17:04:13 INFO Reading the values from Properties table
+12/17/19 17:08:39 INFO The Release Branch name is  IVV-PLT-2019.1217.0630
+12/17/19 17:08:39 INFO Connecting to the database
+12/17/19 17:08:39 INFO Connected to the mysql database 3.125.182.23
+12/17/19 17:08:39 INFO Connected to the database
+12/17/19 17:08:39 INFO creating the audit log table
+12/17/19 17:08:39 INFO Audit log table is created and values inserted
+12/17/19 17:08:39 INFO Converting QueryResult xls file csv
+12/17/19 17:08:39 INFO QueryResult xls file is converted to csv
+12/17/19 17:08:39 INFO Reading the values from Properties table
+12/17/19 17:08:39 INFO Values read from the Properties table
+12/17/19 17:08:39 INFO Getting the length of Release Table
+12/17/19 17:08:39 INFO Entering into the Main function
+12/17/19 17:08:39 INFO Reading values from cmdb-defect.csv file
+12/17/19 17:08:39 INFO Inserting the values into the release table
+12/17/19 17:08:39 INFO values inserted into the release table
+12/17/19 20:49:28 INFO The Release Branch name is  IVV-PLT-2019.1217.0850
+12/17/19 20:49:28 INFO Connecting to the database
+12/17/19 20:49:28 INFO Connected to the mysql database 3.125.182.23
+12/17/19 20:49:28 INFO Connected to the database
+12/17/19 20:49:28 INFO creating the audit log table
+12/17/19 20:49:28 INFO Audit log table is created and values inserted
+12/17/19 20:49:28 INFO Converting QueryResult xls file csv
+12/17/19 20:49:28 INFO QueryResult xls file is converted to csv
+12/17/19 20:49:28 INFO Reading the values from Properties table
+12/17/19 20:49:28 INFO Values read from the Properties table
+12/17/19 20:49:28 INFO Getting the length of Release Table
+12/17/19 20:49:28 INFO Entering into the Main function
+12/17/19 20:49:28 INFO Reading values from cmdb-defect.csv file
+12/17/19 20:49:28 INFO Inserting the values into the release table
+12/17/19 20:49:28 INFO values inserted into the release table
+12/17/19 21:01:49 INFO The repo name is :
+12/17/19 21:01:49 INFO gets-diagnosticeventlogger
+12/17/19 21:01:49 INFO Connecting to the database
+12/17/19 21:01:49 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:01:49 INFO Connected to the database
+12/17/19 21:01:49 INFO creating the audit log table
+12/17/19 21:01:49 INFO Audit log table is created and values inserted
+12/17/19 21:01:49 INFO Inserting the values into Properties table
+12/17/19 21:01:49 INFO Values inserted into Properties table
+12/17/19 21:01:49 INFO Getting the length of Repo table
+12/17/19 21:01:49 INFO Entering into the Main function
+12/17/19 21:01:49 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:01:49 INFO Inserting values into Repo Table
+12/17/19 21:01:49 INFO values inserted into the repo table
+12/17/19 21:01:49 INFO Inserting values into Repo Commits Table
+12/17/19 21:02:31 INFO The repo name is :
+12/17/19 21:02:31 INFO gets-diagnosticeventlogger
+12/17/19 21:02:31 INFO Connecting to the database
+12/17/19 21:02:31 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:02:31 INFO Connected to the database
+12/17/19 21:02:31 INFO creating the audit log table
+12/17/19 21:02:31 INFO Audit log table is created and values inserted
+12/17/19 21:02:31 INFO Inserting the values into Properties table
+12/17/19 21:02:31 INFO Values inserted into Properties table
+12/17/19 21:02:31 INFO Getting the length of Repo table
+12/17/19 21:02:31 INFO Entering into the Main function
+12/17/19 21:02:31 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:02:31 INFO Inserting values into Repo Table
+12/17/19 21:02:31 INFO values inserted into the repo table
+12/17/19 21:02:31 INFO Inserting values into Repo Commits Table
+12/17/19 21:09:22 INFO The repo name is :
+12/17/19 21:09:22 INFO gets-diagnosticeventlogger
+12/17/19 21:09:22 INFO Connecting to the database
+12/17/19 21:09:22 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:09:22 INFO Connected to the database
+12/17/19 21:09:22 INFO creating the audit log table
+12/17/19 21:09:22 INFO Audit log table is created and values inserted
+12/17/19 21:09:22 INFO Inserting the values into Properties table
+12/17/19 21:09:22 INFO Values inserted into Properties table
+12/17/19 21:09:22 INFO Getting the length of Repo table
+12/17/19 21:09:22 INFO Entering into the Main function
+12/17/19 21:09:22 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:09:22 INFO Inserting values into Repo Table
+12/17/19 21:09:22 INFO values inserted into the repo table
+12/17/19 21:09:22 INFO Inserting values into Repo Commits Table
+12/17/19 21:09:30 INFO values inserted into the repo commits table
+12/17/19 21:09:30 INFO values inserted into the database
+12/17/19 21:10:08 INFO values inserted into the repo commits table
+12/17/19 21:10:08 INFO values inserted into the database
+12/17/19 21:10:41 INFO The repo name is :
+12/17/19 21:10:41 INFO gets-diagnosticeventlogger
+12/17/19 21:10:41 INFO Connecting to the database
+12/17/19 21:10:41 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:10:41 INFO Connected to the database
+12/17/19 21:10:41 INFO creating the audit log table
+12/17/19 21:10:41 INFO Audit log table is created and values inserted
+12/17/19 21:10:41 INFO Inserting the values into Properties table
+12/17/19 21:10:41 INFO Values inserted into Properties table
+12/17/19 21:10:41 INFO Getting the length of Repo table
+12/17/19 21:10:41 INFO Entering into the Main function
+12/17/19 21:10:41 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:10:41 INFO Inserting values into Repo Table
+12/17/19 21:10:41 INFO values inserted into the repo table
+12/17/19 21:10:41 INFO Inserting values into Repo Commits Table
+12/17/19 21:10:49 INFO values inserted into the repo commits table
+12/17/19 21:10:49 INFO values inserted into the database
+12/17/19 21:11:27 INFO values inserted into the repo commits table
+12/17/19 21:11:27 INFO values inserted into the database
+12/17/19 21:32:26 INFO The repo name is :
+12/17/19 21:32:26 INFO gets-diagnosticeventlogger
+12/17/19 21:32:26 INFO Connecting to the database
+12/17/19 21:32:26 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:32:26 INFO Connected to the database
+12/17/19 21:32:26 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:32:26 INFO Verified regular expressions for MD and GIT
+12/17/19 21:32:26 INFO creating the audit log table
+12/17/19 21:32:26 INFO Audit log table is created and values inserted
+12/17/19 21:32:26 INFO Inserting the values into Properties table
+12/17/19 21:32:26 INFO Values inserted into Properties table
+12/17/19 21:32:26 INFO Getting the length of Repo table
+12/17/19 21:32:26 INFO Entering into the Main function
+12/17/19 21:32:26 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:32:26 INFO Inserting values into Repo Table
+12/17/19 21:32:26 INFO values inserted into the repo table
+12/17/19 21:32:26 INFO Inserting values into Repo Commits Table
+12/17/19 21:32:48 INFO The repo name is :
+12/17/19 21:32:48 INFO gets-diagnosticeventlogger
+12/17/19 21:32:48 INFO Connecting to the database
+12/17/19 21:32:48 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:32:48 INFO Connected to the database
+12/17/19 21:32:48 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:32:48 INFO Verified regular expressions for MD and GIT
+12/17/19 21:32:48 INFO creating the audit log table
+12/17/19 21:32:48 INFO Audit log table is created and values inserted
+12/17/19 21:32:48 INFO Inserting the values into Properties table
+12/17/19 21:32:48 INFO Values inserted into Properties table
+12/17/19 21:32:48 INFO Getting the length of Repo table
+12/17/19 21:32:48 INFO Entering into the Main function
+12/17/19 21:32:48 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:32:48 INFO Inserting values into Repo Table
+12/17/19 21:32:48 INFO values inserted into the repo table
+12/17/19 21:32:48 INFO Inserting values into Repo Commits Table
+12/17/19 21:34:24 INFO The repo name is :
+12/17/19 21:34:24 INFO gets-diagnosticeventlogger
+12/17/19 21:34:24 INFO Connecting to the database
+12/17/19 21:34:24 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:34:24 INFO Connected to the database
+12/17/19 21:34:24 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:34:24 INFO Verified regular expressions for MD and GIT
+12/17/19 21:34:24 INFO creating the audit log table
+12/17/19 21:34:24 INFO Audit log table is created and values inserted
+12/17/19 21:34:24 INFO Inserting the values into Properties table
+12/17/19 21:34:24 INFO Values inserted into Properties table
+12/17/19 21:34:24 INFO Getting the length of Repo table
+12/17/19 21:34:24 INFO Entering into the Main function
+12/17/19 21:34:24 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:34:24 INFO Inserting values into Repo Table
+12/17/19 21:34:24 INFO values inserted into the repo table
+12/17/19 21:34:24 INFO Inserting values into Repo Commits Table
+12/17/19 21:34:33 INFO Matched MD list from the DEF_Changlist
+12/17/19 21:34:33 INFO values inserted into the repo commits table
+12/17/19 21:35:12 INFO Matched git list from the DEF_Changlist
+12/17/19 21:35:12 INFO values inserted into the repo commits table
+12/17/19 21:35:44 INFO The repo name is :
+12/17/19 21:35:44 INFO gets-diagnosticeventlogger
+12/17/19 21:35:44 INFO Connecting to the database
+12/17/19 21:35:44 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:35:44 INFO Connected to the database
+12/17/19 21:35:44 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:35:44 INFO Verified regular expressions for MD and GIT
+12/17/19 21:35:44 INFO creating the audit log table
+12/17/19 21:35:44 INFO Audit log table is created and values inserted
+12/17/19 21:35:44 INFO Inserting the values into Properties table
+12/17/19 21:35:44 INFO Values inserted into Properties table
+12/17/19 21:35:44 INFO Getting the length of Repo table
+12/17/19 21:35:44 INFO Entering into the Main function
+12/17/19 21:35:44 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:35:44 INFO Inserting values into Repo Table
+12/17/19 21:35:44 INFO values inserted into the repo table
+12/17/19 21:35:44 INFO Inserting values into Repo Commits Table
+12/17/19 21:35:53 INFO Matched MD list from the DEF_Changlist
+12/17/19 21:35:53 INFO values inserted into the repo commits table
+12/17/19 21:36:30 INFO Matched git list from the DEF_Changlist
+12/17/19 21:36:30 INFO values inserted into the repo commits table
+12/17/19 21:53:18 INFO The repo name is :
+12/17/19 21:53:18 INFO gets-diagnosticeventlogger
+12/17/19 21:53:18 INFO Connecting to the database
+12/17/19 21:53:18 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:53:18 INFO Connected to the database
+12/17/19 21:53:18 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:53:18 INFO Verified regular expressions for MD and GIT
+12/17/19 21:53:18 INFO creating the audit log table
+12/17/19 21:53:18 INFO Audit log table is created and values inserted
+12/17/19 21:53:18 INFO Inserting the values into Properties table
+12/17/19 21:53:18 INFO Values inserted into Properties table
+12/17/19 21:53:18 INFO Getting the length of Repo table
+12/17/19 21:53:18 INFO Entering into the Main function
+12/17/19 21:53:18 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:53:18 INFO Inserting values into Repo Table
+12/17/19 21:53:18 INFO values inserted into the repo table
+12/17/19 21:53:18 INFO Inserting values into Repo Commits Table
+12/17/19 21:53:28 INFO Matched MD list from the DEF_Changlist
+12/17/19 21:53:28 INFO values inserted into the repo commits table
+12/17/19 21:53:28 INFO Matched git list from the DEF_Changlist
+12/17/19 21:53:28 INFO values inserted into the repo commits table
+12/17/19 21:54:07 INFO Matched git list from the DEF_Changlist
+12/17/19 21:54:07 INFO values inserted into the repo commits table
+12/17/19 21:54:38 INFO The repo name is :
+12/17/19 21:54:38 INFO gets-container-service
+12/17/19 21:54:38 INFO Connecting to the database
+12/17/19 21:54:38 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:54:38 INFO Connected to the database
+12/17/19 21:54:38 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:54:38 INFO Verified regular expressions for MD and GIT
+12/17/19 21:54:38 INFO creating the audit log table
+12/17/19 21:54:38 INFO Audit log table is created and values inserted
+12/17/19 21:54:38 INFO Inserting the values into Properties table
+12/17/19 21:54:38 INFO Values inserted into Properties table
+12/17/19 21:54:38 INFO Getting the length of Repo table
+12/17/19 21:54:38 INFO Entering into the Main function
+12/17/19 21:54:38 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:54:38 INFO Inserting values into Repo Table
+12/17/19 21:54:38 INFO values inserted into the repo table
+12/17/19 21:54:38 INFO Inserting values into Repo Commits Table
+12/17/19 21:54:47 INFO Matched git list from the DEF_Changlist
+12/17/19 21:54:47 INFO values inserted into the repo commits table
+12/17/19 21:55:18 INFO The repo name is :
+12/17/19 21:55:18 INFO gets-config-base
+12/17/19 21:55:18 INFO Connecting to the database
+12/17/19 21:55:18 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:55:18 INFO Connected to the database
+12/17/19 21:55:18 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:55:18 INFO Verified regular expressions for MD and GIT
+12/17/19 21:55:18 INFO creating the audit log table
+12/17/19 21:55:18 INFO Audit log table is created and values inserted
+12/17/19 21:55:18 INFO Inserting the values into Properties table
+12/17/19 21:55:18 INFO Values inserted into Properties table
+12/17/19 21:55:18 INFO Getting the length of Repo table
+12/17/19 21:55:18 INFO Entering into the Main function
+12/17/19 21:55:18 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:55:18 INFO Inserting values into Repo Table
+12/17/19 21:55:18 INFO values inserted into the repo table
+12/17/19 21:55:18 INFO Inserting values into Repo Commits Table
+12/17/19 21:55:26 INFO Matched git list from the DEF_Changlist
+12/17/19 21:55:26 INFO values inserted into the repo commits table
+12/17/19 21:55:58 INFO The repo name is :
+12/17/19 21:55:58 INFO gets-diagnosticeventlogger
+12/17/19 21:55:58 INFO Connecting to the database
+12/17/19 21:55:58 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:55:58 INFO Connected to the database
+12/17/19 21:55:58 INFO Checking the regular expressions for MD and GIT
+12/17/19 21:55:58 INFO Verified regular expressions for MD and GIT
+12/17/19 21:55:58 INFO creating the audit log table
+12/17/19 21:55:58 INFO Audit log table is created and values inserted
+12/17/19 21:55:58 INFO Inserting the values into Properties table
+12/17/19 21:55:58 INFO Values inserted into Properties table
+12/17/19 21:55:58 INFO Getting the length of Repo table
+12/17/19 21:55:58 INFO Entering into the Main function
+12/17/19 21:55:58 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:55:58 INFO Inserting values into Repo Table
+12/17/19 21:55:58 INFO values inserted into the repo table
+12/17/19 21:55:58 INFO Inserting values into Repo Commits Table
+12/17/19 21:56:07 INFO Matched MD list from the DEF_Changlist
+12/17/19 21:56:07 INFO values inserted into the repo commits table
+12/17/19 21:56:07 INFO Matched git list from the DEF_Changlist
+12/17/19 21:56:07 INFO values inserted into the repo commits table
+12/17/19 21:56:47 INFO Matched git list from the DEF_Changlist
+12/17/19 21:56:47 INFO values inserted into the repo commits table
+12/17/19 22:10:25 INFO The repo name is :
+12/17/19 22:10:25 INFO gets-diagnosticeventlogger
+12/17/19 22:10:25 INFO Connecting to the database
+12/17/19 22:10:25 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:10:25 INFO Connected to the database
+12/17/19 22:10:25 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:10:25 INFO Verified regular expressions for MD and GIT
+12/17/19 22:10:25 INFO creating the audit log table
+12/17/19 22:10:25 INFO Audit log table is created and values inserted
+12/17/19 22:10:25 INFO Inserting the values into Properties table
+12/17/19 22:10:25 INFO Values inserted into Properties table
+12/17/19 22:10:25 INFO Getting the length of Repo table
+12/17/19 22:10:25 INFO Entering into the Main function
+12/17/19 22:10:25 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:10:25 INFO Inserting values into Repo Table
+12/17/19 22:10:25 INFO values inserted into the repo table
+12/17/19 22:10:25 INFO Inserting values into Repo Commits Table
+12/17/19 22:10:35 ERROR Failed to insert values into repo commits table
+12/17/19 22:10:35 ERROR 1048 (23000): Column 'Commit_No' cannot be null
+12/17/19 22:11:07 INFO The repo name is :
+12/17/19 22:11:07 INFO gets-container-service
+12/17/19 22:11:07 INFO Connecting to the database
+12/17/19 22:11:07 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:11:07 INFO Connected to the database
+12/17/19 22:11:07 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:11:07 INFO Verified regular expressions for MD and GIT
+12/17/19 22:11:07 INFO creating the audit log table
+12/17/19 22:11:07 INFO Audit log table is created and values inserted
+12/17/19 22:11:07 INFO Inserting the values into Properties table
+12/17/19 22:11:07 INFO Values inserted into Properties table
+12/17/19 22:11:07 INFO Getting the length of Repo table
+12/17/19 22:11:07 INFO Entering into the Main function
+12/17/19 22:11:07 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:11:07 INFO Inserting values into Repo Table
+12/17/19 22:11:07 INFO values inserted into the repo table
+12/17/19 22:11:07 INFO Inserting values into Repo Commits Table
+12/17/19 22:11:16 INFO Matched git list from the DEF_Changlist
+12/17/19 22:11:16 INFO values inserted into the repo commits table
+12/17/19 22:11:48 INFO The repo name is :
+12/17/19 22:11:48 INFO gets-config-base
+12/17/19 22:11:48 INFO Connecting to the database
+12/17/19 22:11:48 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:11:48 INFO Connected to the database
+12/17/19 22:11:48 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:11:48 INFO Verified regular expressions for MD and GIT
+12/17/19 22:11:48 INFO creating the audit log table
+12/17/19 22:11:48 INFO Audit log table is created and values inserted
+12/17/19 22:11:48 INFO Inserting the values into Properties table
+12/17/19 22:11:48 INFO Values inserted into Properties table
+12/17/19 22:11:48 INFO Getting the length of Repo table
+12/17/19 22:11:48 INFO Entering into the Main function
+12/17/19 22:11:48 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:11:48 INFO Inserting values into Repo Table
+12/17/19 22:11:48 INFO values inserted into the repo table
+12/17/19 22:11:48 INFO Inserting values into Repo Commits Table
+12/17/19 22:11:56 INFO Matched git list from the DEF_Changlist
+12/17/19 22:11:56 INFO values inserted into the repo commits table
+12/17/19 22:12:28 INFO The repo name is :
+12/17/19 22:12:28 INFO gets-diagnosticeventlogger
+12/17/19 22:12:28 INFO Connecting to the database
+12/17/19 22:12:28 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:12:28 INFO Connected to the database
+12/17/19 22:12:28 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:12:28 INFO Verified regular expressions for MD and GIT
+12/17/19 22:12:28 INFO creating the audit log table
+12/17/19 22:12:28 INFO Audit log table is created and values inserted
+12/17/19 22:12:28 INFO Inserting the values into Properties table
+12/17/19 22:12:28 INFO Values inserted into Properties table
+12/17/19 22:12:28 INFO Getting the length of Repo table
+12/17/19 22:12:28 INFO Entering into the Main function
+12/17/19 22:12:28 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:12:28 INFO Inserting values into Repo Table
+12/17/19 22:12:28 INFO values inserted into the repo table
+12/17/19 22:12:28 INFO Inserting values into Repo Commits Table
+12/17/19 22:12:37 INFO Matched MD list from the DEF_Changlist
+12/17/19 22:12:37 INFO values inserted into the repo commits table
+12/17/19 22:12:37 ERROR Failed to insert values into repo commits table
+12/17/19 22:12:37 ERROR 1048 (23000): Column 'Commit_No' cannot be null
+12/17/19 22:17:44 INFO The repo name is :
+12/17/19 22:17:44 INFO gets-diagnosticeventlogger
+12/17/19 22:17:44 INFO Connecting to the database
+12/17/19 22:17:44 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:17:44 INFO Connected to the database
+12/17/19 22:17:44 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:17:44 INFO Verified regular expressions for MD and GIT
+12/17/19 22:17:44 INFO creating the audit log table
+12/17/19 22:17:44 INFO Audit log table is created and values inserted
+12/17/19 22:17:44 INFO Inserting the values into Properties table
+12/17/19 22:17:44 INFO Values inserted into Properties table
+12/17/19 22:17:44 INFO Getting the length of Repo table
+12/17/19 22:17:44 INFO Entering into the Main function
+12/17/19 22:17:44 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:17:44 INFO Inserting values into Repo Table
+12/17/19 22:17:44 INFO values inserted into the repo table
+12/17/19 22:17:44 INFO Inserting values into Repo Commits Table
+12/17/19 22:17:53 INFO Matched git list from the DEF_Changlist
+12/17/19 22:17:53 INFO values inserted into the repo commits table
+12/17/19 22:18:31 INFO Matched git list from the DEF_Changlist
+12/17/19 22:18:31 INFO values inserted into the repo commits table
+12/17/19 22:19:04 INFO The repo name is :
+12/17/19 22:19:04 INFO gets-container-service
+12/17/19 22:19:04 INFO Connecting to the database
+12/17/19 22:19:04 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:19:04 INFO Connected to the database
+12/17/19 22:19:04 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:19:04 INFO Verified regular expressions for MD and GIT
+12/17/19 22:19:04 INFO creating the audit log table
+12/17/19 22:19:04 INFO Audit log table is created and values inserted
+12/17/19 22:19:04 INFO Inserting the values into Properties table
+12/17/19 22:19:04 INFO Values inserted into Properties table
+12/17/19 22:19:04 INFO Getting the length of Repo table
+12/17/19 22:19:04 INFO Entering into the Main function
+12/17/19 22:19:04 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:19:04 INFO Inserting values into Repo Table
+12/17/19 22:19:04 INFO values inserted into the repo table
+12/17/19 22:19:04 INFO Inserting values into Repo Commits Table
+12/17/19 22:19:11 INFO Matched git list from the DEF_Changlist
+12/17/19 22:19:11 INFO values inserted into the repo commits table
+12/17/19 22:19:43 INFO The repo name is :
+12/17/19 22:19:43 INFO gets-config-base
+12/17/19 22:19:43 INFO Connecting to the database
+12/17/19 22:19:43 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:19:43 INFO Connected to the database
+12/17/19 22:19:43 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:19:43 INFO Verified regular expressions for MD and GIT
+12/17/19 22:19:43 INFO creating the audit log table
+12/17/19 22:19:43 INFO Audit log table is created and values inserted
+12/17/19 22:19:43 INFO Inserting the values into Properties table
+12/17/19 22:19:43 INFO Values inserted into Properties table
+12/17/19 22:19:43 INFO Getting the length of Repo table
+12/17/19 22:19:43 INFO Entering into the Main function
+12/17/19 22:19:43 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:19:43 INFO Inserting values into Repo Table
+12/17/19 22:19:43 INFO values inserted into the repo table
+12/17/19 22:19:43 INFO Inserting values into Repo Commits Table
+12/17/19 22:19:50 INFO Matched git list from the DEF_Changlist
+12/17/19 22:19:50 INFO values inserted into the repo commits table
+12/17/19 22:20:21 INFO The repo name is :
+12/17/19 22:20:21 INFO gets-diagnosticeventlogger
+12/17/19 22:20:21 INFO Connecting to the database
+12/17/19 22:20:21 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:20:21 INFO Connected to the database
+12/17/19 22:20:21 INFO Checking the regular expressions for MD and GIT
+12/17/19 22:20:21 INFO Verified regular expressions for MD and GIT
+12/17/19 22:20:21 INFO creating the audit log table
+12/17/19 22:20:21 INFO Audit log table is created and values inserted
+12/17/19 22:20:21 INFO Inserting the values into Properties table
+12/17/19 22:20:21 INFO Values inserted into Properties table
+12/17/19 22:20:21 INFO Getting the length of Repo table
+12/17/19 22:20:21 INFO Entering into the Main function
+12/17/19 22:20:21 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:20:21 INFO Inserting values into Repo Table
+12/17/19 22:20:21 INFO values inserted into the repo table
+12/17/19 22:20:21 INFO Inserting values into Repo Commits Table
+12/17/19 22:20:30 INFO Matched MD list from the DEF_Changlist
+12/17/19 22:20:30 INFO values inserted into the repo commits table
+12/18/19 12:23:59 INFO The repo name is :
+12/18/19 12:23:59 INFO gets-diagnosticeventlogger
+12/18/19 12:23:59 INFO Connecting to the database
+12/18/19 12:23:59 INFO Connected to the mysql database 3.125.182.23
+12/18/19 12:23:59 INFO Connected to the database
+12/18/19 12:23:59 INFO Checking the regular expressions for MD and GIT
+12/18/19 12:23:59 INFO Verified regular expressions for MD and GIT
+12/18/19 12:23:59 INFO creating the audit log table
+12/18/19 12:23:59 INFO Audit log table is created and values inserted
+12/18/19 12:23:59 INFO Inserting the values into Properties table
+12/18/19 12:23:59 INFO Values inserted into Properties table
+12/18/19 12:23:59 INFO Getting the length of Repo table
+12/18/19 12:23:59 INFO Entering into the Main function
+12/18/19 12:23:59 INFO Reading values from cmdb-defect.csv file
+12/18/19 12:23:59 INFO Inserting values into Repo Table
+12/18/19 12:23:59 INFO values inserted into the repo table
+12/18/19 12:23:59 INFO Inserting values into Repo Commits Table
+12/18/19 12:24:09 INFO Matched git list from the DEF_Changlist
+12/18/19 12:24:09 INFO values inserted into the repo commits table
+12/18/19 12:24:48 INFO Matched git list from the DEF_Changlist
+12/18/19 12:24:48 INFO values inserted into the repo commits table
+12/18/19 12:25:19 INFO The repo name is :
+12/18/19 12:25:19 INFO gets-container-service
+12/18/19 12:25:19 INFO Connecting to the database
+12/18/19 12:25:19 INFO Connected to the mysql database 3.125.182.23
+12/18/19 12:25:19 INFO Connected to the database
+12/18/19 12:25:19 INFO Checking the regular expressions for MD and GIT
+12/18/19 12:25:19 INFO Verified regular expressions for MD and GIT
+12/18/19 12:25:19 INFO creating the audit log table
+12/18/19 12:25:19 INFO Audit log table is created and values inserted
+12/18/19 12:25:19 INFO Inserting the values into Properties table
+12/18/19 12:25:20 INFO Values inserted into Properties table
+12/18/19 12:25:20 INFO Getting the length of Repo table
+12/18/19 12:25:20 INFO Entering into the Main function
+12/18/19 12:25:20 INFO Reading values from cmdb-defect.csv file
+12/18/19 12:25:20 INFO Inserting values into Repo Table
+12/18/19 12:25:20 INFO values inserted into the repo table
+12/18/19 12:25:20 INFO Inserting values into Repo Commits Table
+12/18/19 12:25:28 INFO Matched git list from the DEF_Changlist
+12/18/19 12:25:28 INFO values inserted into the repo commits table
+12/18/19 12:26:01 INFO The repo name is :
+12/18/19 12:26:01 INFO gets-config-base
+12/18/19 12:26:01 INFO Connecting to the database
+12/18/19 12:26:01 INFO Connected to the mysql database 3.125.182.23
+12/18/19 12:26:01 INFO Connected to the database
+12/18/19 12:26:01 INFO Checking the regular expressions for MD and GIT
+12/18/19 12:26:01 INFO Verified regular expressions for MD and GIT
+12/18/19 12:26:01 INFO creating the audit log table
+12/18/19 12:26:01 INFO Audit log table is created and values inserted
+12/18/19 12:26:01 INFO Inserting the values into Properties table
+12/18/19 12:26:01 INFO Values inserted into Properties table
+12/18/19 12:26:01 INFO Getting the length of Repo table
+12/18/19 12:26:01 INFO Entering into the Main function
+12/18/19 12:26:01 INFO Reading values from cmdb-defect.csv file
+12/18/19 12:26:01 INFO Inserting values into Repo Table
+12/18/19 12:26:01 INFO values inserted into the repo table
+12/18/19 12:26:01 INFO Inserting values into Repo Commits Table
+12/18/19 12:26:09 INFO Matched git list from the DEF_Changlist
+12/18/19 12:26:09 INFO values inserted into the repo commits table
+12/18/19 12:26:41 INFO The repo name is :
+12/18/19 12:26:41 INFO gets-diagnosticeventlogger
+12/18/19 12:26:41 INFO Connecting to the database
+12/18/19 12:26:41 INFO Connected to the mysql database 3.125.182.23
+12/18/19 12:26:41 INFO Connected to the database
+12/18/19 12:26:41 INFO Checking the regular expressions for MD and GIT
+12/18/19 12:26:41 INFO Verified regular expressions for MD and GIT
+12/18/19 12:26:41 INFO creating the audit log table
+12/18/19 12:26:41 INFO Audit log table is created and values inserted
+12/18/19 12:26:41 INFO Inserting the values into Properties table
+12/18/19 12:26:41 INFO Values inserted into Properties table
+12/18/19 12:26:41 INFO Getting the length of Repo table
+12/18/19 12:26:41 INFO Entering into the Main function
+12/18/19 12:26:41 INFO Reading values from cmdb-defect.csv file
+12/18/19 12:26:41 INFO Inserting values into Repo Table
+12/18/19 12:26:41 INFO values inserted into the repo table
+12/18/19 12:26:41 INFO Inserting values into Repo Commits Table
+12/18/19 12:26:49 INFO Matched MD list from the DEF_Changlist
+12/18/19 12:26:49 INFO values inserted into the repo commits table

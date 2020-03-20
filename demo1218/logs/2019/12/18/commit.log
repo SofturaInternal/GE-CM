@@ -1,0 +1,71 @@
+12/18/19 12:23:24 INFO Trying to read repo build types
+12/18/19 12:23:24 INFO Trying to read project id names
+12/18/19 12:23:24 INFO Connecting to the database
+12/18/19 12:23:24 INFO Connected to the mysql database 3.125.182.23
+12/18/19 12:23:24 INFO Connected to the database
+12/18/19 12:23:56 INFO creating the audit log table
+12/18/19 12:23:56 INFO Audit log table is created and values inserted
+12/18/19 12:23:56 INFO Converting XLS to CSV
+12/18/19 12:23:56 INFO Checking the regular expressions for MD and GIT
+12/18/19 12:23:56 INFO Verified regular expressions for MD and GIT
+12/18/19 12:23:56 INFO Getting the greatest commit from the multiple commits
+12/18/19 12:23:56 INFO defining the function to create the release branch
+12/18/19 12:23:56 INFO defining the function to create the pre-release tag
+12/18/19 12:23:56 INFO Defining the function to create the Tag in MD
+12/18/19 12:23:56 INFO Running the release script....
+12/18/19 12:23:57 INFO finished running release script...
+12/18/19 12:23:57 INFO Entering into the Main Function
+12/18/19 12:23:57 INFO Verified MCA Platform SW in discriptor
+12/18/19 12:23:57 INFO Matched MD list from the DEF_Changlist
+12/18/19 12:23:57 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/commits/0be17dd37868255bb787d4bd21c98c9a422e2814
+12/18/19 12:23:57 INFO The Repo Name is gets-diagnosticeventlogger
+12/18/19 12:23:57 INFO The Commit Number is 0be17dd37868255bb787d4bd21c98c9a422e2814
+12/18/19 12:23:57 INFO Got the greatest commit number from the multiple commits for gets-diagnosticeventlogger
+12/18/19 12:23:57 INFO commit date for gets-diagnosticeventlogger
+12/18/19 12:23:57 INFO Matched git list from the DEF_Changlist
+12/18/19 12:23:57 INFO Verified MCA Platform SW in discriptor
+12/18/19 12:23:57 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/commits/af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+12/18/19 12:23:57 INFO The Repo Name is gets-diagnosticeventlogger
+12/18/19 12:23:57 INFO The Commit Number is af7db78cc395c8c95d801913b4ca2929d4a6d5b1
+12/18/19 12:23:57 INFO Got the greatest commit number from the multiple commits for gets-diagnosticeventlogger
+12/18/19 12:23:57 INFO commit date for gets-diagnosticeventlogger
+12/18/19 12:23:57 INFO Matched git list from the DEF_Changlist
+12/18/19 12:23:57 INFO Verified MCA Platform SW in discriptor
+12/18/19 12:23:57 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-container-service/commits/5dedd8f8ee898808644d8518c6b08472a5856196
+12/18/19 12:23:57 INFO The Repo Name is gets-container-service
+12/18/19 12:23:57 INFO The Commit Number is 5dedd8f8ee898808644d8518c6b08472a5856196
+12/18/19 12:23:58 INFO Got the greatest commit number from the multiple commits for gets-container-service
+12/18/19 12:23:58 INFO commit date for gets-container-service
+12/18/19 12:23:58 INFO Matched git list from the DEF_Changlist
+12/18/19 12:23:58 INFO Verified MCA Platform SW in discriptor
+12/18/19 12:23:58 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config-base/commits/741a04948b06aece95e5bd1d4bace4a245ada34d
+12/18/19 12:23:58 INFO The Repo Name is gets-config-base
+12/18/19 12:23:58 INFO The Commit Number is 741a04948b06aece95e5bd1d4bace4a245ada34d
+12/18/19 12:23:58 INFO Got the greatest commit number from the multiple commits for gets-config-base
+12/18/19 12:23:58 INFO commit date for gets-config-base
+12/18/19 12:23:58 INFO Matched git list from the DEF_Changlist
+12/18/19 12:23:58 INFO Getting Latest Commit No. for Release Branch
+12/18/19 12:23:58 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/git/refs
+12/18/19 12:23:58 INFO The Repo Name is gets-diagnosticeventlogger
+12/18/19 12:23:58 INFO The Commit Number is 0be17dd37868255bb787d4bd21c98c9a422e2814
+12/18/19 12:23:58 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-diagnosticeventlogger/releases
+12/18/19 12:23:58 INFO The Repo Name is gets-diagnosticeventlogger
+12/18/19 12:23:58 INFO The Commit Number is 0be17dd37868255bb787d4bd21c98c9a422e2814
+12/18/19 12:23:59 INFO Pre-release Tag is created for gets-diagnosticeventlogger
+12/18/19 12:23:59 INFO created release branch successfully for repo gets-diagnosticeventlogger
+12/18/19 12:23:59 INFO calling the python script to insert the values into database
+12/18/19 12:25:19 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-container-service/releases
+12/18/19 12:25:19 INFO The Repo Name is gets-container-service
+12/18/19 12:25:19 INFO The Commit Number is 5dedd8f8ee898808644d8518c6b08472a5856196
+12/18/19 12:25:19 INFO Pre-release Tag is created for gets-container-service
+12/18/19 12:25:59 INFO The URL is https://github.build.ge.com/api/v3/repos/GET-MCA-PlatformServices/gets-config-base/releases
+12/18/19 12:25:59 INFO The Repo Name is gets-config-base
+12/18/19 12:25:59 INFO The Commit Number is 741a04948b06aece95e5bd1d4bace4a245ada34d
+12/18/19 12:26:01 INFO Pre-release Tag is created for gets-config-base
+12/18/19 12:26:40 INFO Getting Maximum Version for Magic Draw
+12/18/19 12:26:40 INFO The URL is https://3.125.182.25:8111/osmc/resources/a9f1641e-5994-4065-ac83-5b65dad2e163/tags
+12/18/19 12:26:40 INFO The Project ID is a9f1641e-5994-4065-ac83-5b65dad2e163
+12/18/19 12:26:40 INFO The Commit Number is 3356
+12/18/19 12:26:40 INFO created Tag successfully for version 3356
+12/18/19 12:26:40 INFO created Tag successfully for version 3356
+12/18/19 12:26:40 INFO calling the python script to insert the values into database

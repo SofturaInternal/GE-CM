@@ -1,0 +1,70 @@
+12/09/19 10:30:50 INFO The repo name is :
+12/09/19 10:30:50 INFO System Architecture
+12/09/19 10:30:50 INFO Connecting to the database
+12/09/19 10:30:50 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:50 INFO Connected to the database
+12/09/19 10:30:50 INFO creating the audit log table
+12/09/19 10:30:50 INFO Audit log table is created and values inserted
+12/09/19 10:30:50 INFO Inserting the values into Properties table
+12/09/19 10:30:50 INFO Values inserted into Properties table
+12/09/19 10:30:50 INFO Getting the length of Repo table
+12/09/19 10:30:50 INFO Entering into the Main function
+12/09/19 10:30:50 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:50 INFO Inserting values into Repo Table
+12/09/19 10:30:50 INFO values inserted into the repo table
+12/09/19 10:30:50 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:50 INFO values inserted into the repo commits table
+12/09/19 10:30:50 INFO values inserted into the database
+12/09/19 10:30:52 INFO The repo name is :
+12/09/19 10:30:52 INFO gets-diagnosticeventlogger
+12/09/19 10:30:52 INFO Connecting to the database
+12/09/19 10:30:52 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:52 INFO Connected to the database
+12/09/19 10:30:52 INFO creating the audit log table
+12/09/19 10:30:52 INFO Audit log table is created and values inserted
+12/09/19 10:30:52 INFO Inserting the values into Properties table
+12/09/19 10:30:52 INFO Values inserted into Properties table
+12/09/19 10:30:52 INFO Getting the length of Repo table
+12/09/19 10:30:52 INFO Entering into the Main function
+12/09/19 10:30:52 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:52 INFO Inserting values into Repo Table
+12/09/19 10:30:52 INFO values inserted into the repo table
+12/09/19 10:30:52 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:52 INFO values inserted into the repo commits table
+12/09/19 10:30:52 INFO values inserted into the database
+12/09/19 10:30:52 INFO values inserted into the repo commits table
+12/09/19 10:30:52 INFO values inserted into the database
+12/09/19 10:30:53 INFO The repo name is :
+12/09/19 10:30:53 INFO gets-container-service
+12/09/19 10:30:53 INFO Connecting to the database
+12/09/19 10:30:53 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:53 INFO Connected to the database
+12/09/19 10:30:53 INFO creating the audit log table
+12/09/19 10:30:53 INFO Audit log table is created and values inserted
+12/09/19 10:30:53 INFO Inserting the values into Properties table
+12/09/19 10:30:53 INFO Values inserted into Properties table
+12/09/19 10:30:53 INFO Getting the length of Repo table
+12/09/19 10:30:53 INFO Entering into the Main function
+12/09/19 10:30:53 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:53 INFO Inserting values into Repo Table
+12/09/19 10:30:53 INFO values inserted into the repo table
+12/09/19 10:30:53 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:53 INFO values inserted into the repo commits table
+12/09/19 10:30:53 INFO values inserted into the database
+12/09/19 10:30:55 INFO The repo name is :
+12/09/19 10:30:55 INFO gets-config-base
+12/09/19 10:30:55 INFO Connecting to the database
+12/09/19 10:30:55 INFO Connected to the mysql database 3.125.182.23
+12/09/19 10:30:55 INFO Connected to the database
+12/09/19 10:30:55 INFO creating the audit log table
+12/09/19 10:30:55 INFO Audit log table is created and values inserted
+12/09/19 10:30:55 INFO Inserting the values into Properties table
+12/09/19 10:30:55 INFO Values inserted into Properties table
+12/09/19 10:30:55 INFO Getting the length of Repo table
+12/09/19 10:30:55 INFO Entering into the Main function
+12/09/19 10:30:55 INFO Reading values from cmdb-defect.csv file
+12/09/19 10:30:55 INFO Inserting values into Repo Table
+12/09/19 10:30:55 INFO values inserted into the repo table
+12/09/19 10:30:55 INFO Inserting values into Repo Commits Table
+12/09/19 10:30:55 INFO values inserted into the repo commits table
+12/09/19 10:30:55 INFO values inserted into the database

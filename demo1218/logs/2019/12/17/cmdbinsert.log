@@ -1,0 +1,242 @@
+12/17/19 13:49:50 INFO The repo name is :
+12/17/19 13:49:50 INFO gets-diagnosticeventlogger
+12/17/19 13:49:50 INFO Connecting to the database
+12/17/19 13:49:50 INFO Connected to the mysql database 3.125.182.23
+12/17/19 13:49:50 INFO Connected to the database
+12/17/19 13:49:50 INFO creating the audit log table
+12/17/19 13:49:50 INFO Audit log table is created and values inserted
+12/17/19 13:49:50 INFO Inserting the values into Properties table
+12/17/19 13:49:50 INFO Values inserted into Properties table
+12/17/19 13:49:50 INFO Getting the length of Repo table
+12/17/19 13:49:50 INFO Entering into the Main function
+12/17/19 13:49:50 INFO Reading values from cmdb-defect.csv file
+12/17/19 13:49:50 INFO Inserting values into Repo Table
+12/17/19 13:49:50 INFO values inserted into the repo table
+12/17/19 13:49:50 INFO Inserting values into Repo Commits Table
+12/17/19 13:49:50 INFO values inserted into the repo commits table
+12/17/19 13:49:50 INFO values inserted into the database
+12/17/19 13:49:50 INFO values inserted into the repo commits table
+12/17/19 13:49:50 INFO values inserted into the database
+12/17/19 13:49:53 INFO The repo name is :
+12/17/19 13:49:53 INFO System Architecture
+12/17/19 13:49:53 INFO Connecting to the database
+12/17/19 13:49:53 INFO Connected to the mysql database 3.125.182.23
+12/17/19 13:49:53 INFO Connected to the database
+12/17/19 13:49:53 INFO creating the audit log table
+12/17/19 13:49:53 INFO Audit log table is created and values inserted
+12/17/19 13:49:53 INFO Inserting the values into Properties table
+12/17/19 13:49:53 INFO Values inserted into Properties table
+12/17/19 13:49:53 INFO Getting the length of Repo table
+12/17/19 13:49:53 INFO Entering into the Main function
+12/17/19 13:49:53 INFO Reading values from cmdb-defect.csv file
+12/17/19 13:49:53 INFO Inserting values into Repo Table
+12/17/19 13:49:53 INFO values inserted into the repo table
+12/17/19 13:49:53 INFO Inserting values into Repo Commits Table
+12/17/19 13:49:53 INFO values inserted into the repo commits table
+12/17/19 13:49:53 INFO values inserted into the database
+12/17/19 13:49:57 INFO The repo name is :
+12/17/19 13:49:57 INFO gets-diagnosticeventlogger
+12/17/19 13:49:57 INFO Connecting to the database
+12/17/19 13:49:57 INFO Connected to the mysql database 3.125.182.23
+12/17/19 13:49:57 INFO Connected to the database
+12/17/19 13:49:57 INFO creating the audit log table
+12/17/19 13:49:57 INFO Audit log table is created and values inserted
+12/17/19 13:49:57 INFO Inserting the values into Properties table
+12/17/19 13:49:57 INFO Values inserted into Properties table
+12/17/19 13:49:57 INFO Getting the length of Repo table
+12/17/19 13:49:57 INFO Entering into the Main function
+12/17/19 13:49:57 INFO Reading values from cmdb-defect.csv file
+12/17/19 13:49:57 INFO Inserting values into Repo Table
+12/17/19 13:49:57 INFO values inserted into the repo table
+12/17/19 13:49:57 INFO Inserting values into Repo Commits Table
+12/17/19 13:49:57 INFO values inserted into the repo commits table
+12/17/19 13:49:57 INFO values inserted into the database
+12/17/19 13:49:57 INFO values inserted into the repo commits table
+12/17/19 13:49:57 INFO values inserted into the database
+12/17/19 15:27:28 INFO The repo name is :
+12/17/19 15:27:28 INFO gets-diagnosticeventlogger
+12/17/19 15:27:28 INFO Connecting to the database
+12/17/19 15:27:28 INFO Connected to the mysql database 3.125.182.23
+12/17/19 15:27:28 INFO Connected to the database
+12/17/19 15:27:28 INFO creating the audit log table
+12/17/19 15:27:28 INFO Audit log table is created and values inserted
+12/17/19 15:27:28 INFO Inserting the values into Properties table
+12/17/19 15:27:28 INFO Values inserted into Properties table
+12/17/19 15:27:28 INFO Getting the length of Repo table
+12/17/19 15:27:28 INFO Entering into the Main function
+12/17/19 15:27:28 INFO Reading values from cmdb-defect.csv file
+12/17/19 15:27:28 INFO Inserting values into Repo Table
+12/17/19 15:27:28 INFO values inserted into the repo table
+12/17/19 15:27:28 INFO Inserting values into Repo Commits Table
+12/17/19 15:27:28 INFO values inserted into the repo commits table
+12/17/19 15:27:28 INFO values inserted into the database
+12/17/19 15:27:28 INFO values inserted into the repo commits table
+12/17/19 15:27:28 INFO values inserted into the database
+12/17/19 15:52:38 INFO The repo name is :
+12/17/19 15:52:38 INFO gets-diagnosticeventlogger
+12/17/19 15:52:38 INFO Connecting to the database
+12/17/19 15:52:38 INFO Connected to the mysql database 3.125.182.23
+12/17/19 15:52:38 INFO Connected to the database
+12/17/19 15:52:38 INFO creating the audit log table
+12/17/19 15:52:38 INFO Audit log table is created and values inserted
+12/17/19 15:52:38 INFO Inserting the values into Properties table
+12/17/19 15:52:38 INFO Values inserted into Properties table
+12/17/19 15:52:38 INFO Getting the length of Repo table
+12/17/19 15:52:38 INFO Entering into the Main function
+12/17/19 15:52:38 INFO Reading values from cmdb-defect.csv file
+12/17/19 15:52:38 INFO Inserting values into Repo Table
+12/17/19 15:52:38 INFO values inserted into the repo table
+12/17/19 15:52:38 INFO Inserting values into Repo Commits Table
+12/17/19 15:52:38 INFO values inserted into the repo commits table
+12/17/19 15:52:38 INFO values inserted into the database
+12/17/19 15:52:38 INFO values inserted into the repo commits table
+12/17/19 15:52:38 INFO values inserted into the database
+12/17/19 15:58:03 INFO The repo name is :
+12/17/19 15:58:03 INFO gets-diagnosticeventlogger
+12/17/19 15:58:03 INFO Connecting to the database
+12/17/19 15:58:03 INFO Connected to the mysql database 3.125.182.23
+12/17/19 15:58:03 INFO Connected to the database
+12/17/19 15:58:03 INFO creating the audit log table
+12/17/19 15:58:03 INFO Audit log table is created and values inserted
+12/17/19 15:58:03 INFO Inserting the values into Properties table
+12/17/19 15:58:03 INFO Values inserted into Properties table
+12/17/19 15:58:03 INFO Getting the length of Repo table
+12/17/19 15:58:03 INFO Entering into the Main function
+12/17/19 15:58:03 INFO Reading values from cmdb-defect.csv file
+12/17/19 15:58:03 INFO Inserting values into Repo Table
+12/17/19 15:58:03 INFO values inserted into the repo table
+12/17/19 15:58:03 INFO Inserting values into Repo Commits Table
+12/17/19 15:58:03 INFO values inserted into the repo commits table
+12/17/19 15:58:03 INFO values inserted into the database
+12/17/19 15:58:03 INFO values inserted into the repo commits table
+12/17/19 15:58:03 INFO values inserted into the database
+12/17/19 16:50:12 INFO The repo name is :
+12/17/19 16:50:12 INFO gets-diagnosticeventlogger
+12/17/19 16:50:12 INFO Connecting to the database
+12/17/19 16:50:12 INFO Connected to the mysql database 3.125.182.23
+12/17/19 16:50:12 INFO Connected to the database
+12/17/19 16:50:12 INFO creating the audit log table
+12/17/19 16:50:12 INFO Audit log table is created and values inserted
+12/17/19 16:50:12 INFO Inserting the values into Properties table
+12/17/19 16:50:12 INFO Values inserted into Properties table
+12/17/19 16:50:12 INFO Getting the length of Repo table
+12/17/19 16:50:12 INFO Entering into the Main function
+12/17/19 16:50:12 INFO Reading values from cmdb-defect.csv file
+12/17/19 16:50:12 INFO Inserting values into Repo Table
+12/17/19 16:50:12 INFO values inserted into the repo table
+12/17/19 16:50:12 INFO Inserting values into Repo Commits Table
+12/17/19 16:50:12 INFO values inserted into the repo commits table
+12/17/19 16:50:12 INFO values inserted into the database
+12/17/19 16:50:12 INFO values inserted into the repo commits table
+12/17/19 16:50:12 INFO values inserted into the database
+12/17/19 16:50:16 INFO The repo name is :
+12/17/19 16:50:16 INFO gets-diagnosticeventlogger
+12/17/19 16:50:16 INFO Connecting to the database
+12/17/19 16:50:16 INFO Connected to the mysql database 3.125.182.23
+12/17/19 16:50:16 INFO Connected to the database
+12/17/19 16:50:16 INFO creating the audit log table
+12/17/19 16:50:16 INFO Audit log table is created and values inserted
+12/17/19 16:50:16 INFO Inserting the values into Properties table
+12/17/19 16:50:16 INFO Values inserted into Properties table
+12/17/19 16:50:16 INFO Getting the length of Repo table
+12/17/19 16:50:16 INFO Entering into the Main function
+12/17/19 16:50:16 INFO Reading values from cmdb-defect.csv file
+12/17/19 16:50:16 INFO Inserting values into Repo Table
+12/17/19 16:50:16 INFO values inserted into the repo table
+12/17/19 16:50:16 INFO Inserting values into Repo Commits Table
+12/17/19 16:50:16 INFO values inserted into the repo commits table
+12/17/19 16:50:16 INFO values inserted into the database
+12/17/19 16:50:16 INFO values inserted into the repo commits table
+12/17/19 16:50:16 INFO values inserted into the database
+12/17/19 17:04:16 INFO The repo name is :
+12/17/19 17:04:16 INFO gets-diagnosticeventlogger
+12/17/19 17:04:16 INFO Connecting to the database
+12/17/19 17:04:16 INFO Connected to the mysql database 3.125.182.23
+12/17/19 17:04:16 INFO Connected to the database
+12/17/19 17:04:16 INFO creating the audit log table
+12/17/19 17:04:16 INFO Audit log table is created and values inserted
+12/17/19 17:04:16 INFO Inserting the values into Properties table
+12/17/19 17:04:18 INFO The repo name is :
+12/17/19 17:04:18 INFO gets-diagnosticeventlogger
+12/17/19 17:04:18 INFO Connecting to the database
+12/17/19 17:04:18 INFO Connected to the mysql database 3.125.182.23
+12/17/19 17:04:18 INFO Connected to the database
+12/17/19 17:04:18 INFO creating the audit log table
+12/17/19 17:04:18 INFO Audit log table is created and values inserted
+12/17/19 17:04:18 INFO Inserting the values into Properties table
+12/17/19 17:08:42 INFO The repo name is :
+12/17/19 17:08:42 INFO gets-diagnosticeventlogger
+12/17/19 17:08:42 INFO Connecting to the database
+12/17/19 17:08:42 INFO Connected to the mysql database 3.125.182.23
+12/17/19 17:08:42 INFO Connected to the database
+12/17/19 17:08:42 INFO creating the audit log table
+12/17/19 17:08:42 INFO Audit log table is created and values inserted
+12/17/19 17:08:42 INFO Inserting the values into Properties table
+12/17/19 17:08:42 INFO Values inserted into Properties table
+12/17/19 17:08:42 INFO Getting the length of Repo table
+12/17/19 17:08:42 INFO Entering into the Main function
+12/17/19 17:08:42 INFO Reading values from cmdb-defect.csv file
+12/17/19 17:08:42 INFO Inserting values into Repo Table
+12/17/19 17:08:42 INFO values inserted into the repo table
+12/17/19 17:08:42 INFO Inserting values into Repo Commits Table
+12/17/19 17:08:42 INFO values inserted into the repo commits table
+12/17/19 17:08:42 INFO values inserted into the database
+12/17/19 17:08:42 INFO values inserted into the repo commits table
+12/17/19 17:08:42 INFO values inserted into the database
+12/17/19 17:08:44 INFO The repo name is :
+12/17/19 17:08:44 INFO gets-diagnosticeventlogger
+12/17/19 17:08:44 INFO Connecting to the database
+12/17/19 17:08:44 INFO Connected to the mysql database 3.125.182.23
+12/17/19 17:08:44 INFO Connected to the database
+12/17/19 17:08:44 INFO creating the audit log table
+12/17/19 17:08:44 INFO Audit log table is created and values inserted
+12/17/19 17:08:44 INFO Inserting the values into Properties table
+12/17/19 17:08:44 INFO Values inserted into Properties table
+12/17/19 17:08:44 INFO Getting the length of Repo table
+12/17/19 17:08:44 INFO Entering into the Main function
+12/17/19 17:08:44 INFO Reading values from cmdb-defect.csv file
+12/17/19 17:08:44 INFO Inserting values into Repo Table
+12/17/19 17:08:44 INFO values inserted into the repo table
+12/17/19 17:08:44 INFO Inserting values into Repo Commits Table
+12/17/19 17:08:44 INFO values inserted into the repo commits table
+12/17/19 17:08:44 INFO values inserted into the database
+12/17/19 17:08:44 INFO values inserted into the repo commits table
+12/17/19 17:08:44 INFO values inserted into the database
+12/17/19 20:49:31 INFO The repo name is :
+12/17/19 20:49:31 INFO gets-diagnosticeventlogger
+12/17/19 20:49:31 INFO Connecting to the database
+12/17/19 20:49:31 INFO Connected to the mysql database 3.125.182.23
+12/17/19 20:49:31 INFO Connected to the database
+12/17/19 20:49:31 INFO creating the audit log table
+12/17/19 20:49:31 INFO Audit log table is created and values inserted
+12/17/19 20:49:31 INFO Inserting the values into Properties table
+12/17/19 20:49:31 INFO Values inserted into Properties table
+12/17/19 20:49:31 INFO Getting the length of Repo table
+12/17/19 20:49:31 INFO Entering into the Main function
+12/17/19 20:49:31 INFO Reading values from cmdb-defect.csv file
+12/17/19 20:49:31 INFO Inserting values into Repo Table
+12/17/19 20:49:31 INFO values inserted into the repo table
+12/17/19 20:49:31 INFO Inserting values into Repo Commits Table
+12/17/19 20:49:31 INFO values inserted into the repo commits table
+12/17/19 20:49:31 INFO values inserted into the database
+12/17/19 20:49:31 INFO values inserted into the repo commits table
+12/17/19 20:49:31 INFO values inserted into the database
+12/17/19 20:49:33 INFO The repo name is :
+12/17/19 20:49:33 INFO gets-diagnosticeventlogger
+12/17/19 20:49:33 INFO Connecting to the database
+12/17/19 20:49:33 INFO Connected to the mysql database 3.125.182.23
+12/17/19 20:49:33 INFO Connected to the database
+12/17/19 20:49:33 INFO creating the audit log table
+12/17/19 20:49:33 INFO Audit log table is created and values inserted
+12/17/19 20:49:33 INFO Inserting the values into Properties table
+12/17/19 20:49:33 INFO Values inserted into Properties table
+12/17/19 20:49:33 INFO Getting the length of Repo table
+12/17/19 20:49:33 INFO Entering into the Main function
+12/17/19 20:49:33 INFO Reading values from cmdb-defect.csv file
+12/17/19 20:49:33 INFO Inserting values into Repo Table
+12/17/19 20:49:33 INFO values inserted into the repo table
+12/17/19 20:49:33 INFO Inserting values into Repo Commits Table
+12/17/19 20:49:33 INFO values inserted into the repo commits table
+12/17/19 20:49:33 INFO values inserted into the database
+12/17/19 20:49:33 INFO values inserted into the repo commits table
+12/17/19 20:49:33 INFO values inserted into the database

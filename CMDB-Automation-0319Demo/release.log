@@ -1,0 +1,172 @@
+01/03/20 11:36:49 INFO The Release Branch name is  IVV-PLT-2020.0103.1200
+01/03/20 11:36:49 INFO Connecting to the database
+01/03/20 11:36:49 INFO Connected to the mysql database 3.125.182.23
+01/03/20 11:36:49 INFO Connected to the database
+01/03/20 11:36:49 INFO creating the audit log table
+01/03/20 11:36:49 INFO Audit log table is created and values inserted
+01/03/20 11:36:49 INFO Converting QueryResult xls file csv
+01/03/20 12:24:41 INFO The Release Branch name is  IVV-PLT-2020.0301.1230
+01/03/20 12:24:41 INFO Connecting to the database
+01/03/20 12:24:41 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:24:41 INFO Connected to the database
+01/03/20 12:24:41 INFO creating the audit log table
+01/03/20 12:24:41 INFO Audit log table is created and values inserted
+01/03/20 12:24:41 INFO Reading the values from Properties table
+01/03/20 12:24:41 INFO Values read from the Properties table
+01/03/20 12:24:41 INFO Getting the length of Release Table
+01/03/20 12:24:41 INFO Entering into the Main function
+01/03/20 12:24:41 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:24:41 INFO Inserting the values into the release table
+01/03/20 12:24:41 INFO values inserted into the release table
+01/03/20 12:28:08 INFO The Release Branch name is  IVV-PLT-2020.0103.0100
+01/03/20 12:28:08 INFO Connecting to the database
+01/03/20 12:28:08 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:28:08 INFO Connected to the database
+01/03/20 12:28:08 INFO creating the audit log table
+01/03/20 12:28:08 INFO Audit log table is created and values inserted
+01/03/20 12:28:08 INFO Reading the values from Properties table
+01/03/20 12:28:08 INFO Values read from the Properties table
+01/03/20 12:28:08 INFO Getting the length of Release Table
+01/03/20 12:28:08 INFO Entering into the Main function
+01/03/20 12:28:08 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:28:08 INFO Inserting the values into the release table
+01/03/20 12:28:08 INFO values inserted into the release table
+01/03/20 12:31:34 INFO The Release Branch name is  IVV-PLT-2020.0103.0105
+01/03/20 12:31:34 INFO Connecting to the database
+01/03/20 12:31:34 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:31:34 INFO Connected to the database
+01/03/20 12:31:34 INFO creating the audit log table
+01/03/20 12:31:34 INFO Audit log table is created and values inserted
+01/03/20 12:31:34 INFO Reading the values from Properties table
+01/03/20 12:31:34 INFO Values read from the Properties table
+01/03/20 12:31:34 INFO Getting the length of Release Table
+01/03/20 12:31:34 INFO Entering into the Main function
+01/03/20 12:31:34 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:31:34 INFO Inserting the values into the release table
+01/03/20 12:31:34 INFO values inserted into the release table
+01/03/20 12:36:44 INFO The Release Branch name is  IVV-PLT-2020.0301.0200
+01/03/20 12:36:44 INFO Connecting to the database
+01/03/20 12:36:44 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:36:44 INFO Connected to the database
+01/03/20 12:36:44 INFO creating the audit log table
+01/03/20 12:36:44 INFO Audit log table is created and values inserted
+01/03/20 12:36:44 INFO Reading the values from Properties table
+01/03/20 12:36:44 INFO Values read from the Properties table
+01/03/20 12:36:44 INFO Getting the length of Release Table
+01/03/20 12:36:44 INFO Entering into the Main function
+01/03/20 12:36:44 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:36:44 INFO Inserting the values into the release table
+01/03/20 12:36:44 INFO values inserted into the release table
+01/03/20 12:49:21 INFO The Release Branch name is  IVV-PLT-2020.0103.0230
+01/03/20 12:49:21 INFO Connecting to the database
+01/03/20 12:49:21 INFO Connected to the mysql database 3.125.182.23
+01/03/20 12:49:21 INFO Connected to the database
+01/03/20 12:49:21 INFO creating the audit log table
+01/03/20 12:49:21 INFO Audit log table is created and values inserted
+01/03/20 12:49:21 INFO Reading the values from Properties table
+01/03/20 12:49:21 INFO Values read from the Properties table
+01/03/20 12:49:21 INFO Getting the length of Release Table
+01/03/20 12:49:21 INFO Entering into the Main function
+01/03/20 12:49:21 INFO Reading values from cmdb-defect.csv file
+01/03/20 12:49:21 INFO Inserting the values into the release table
+01/03/20 12:49:21 INFO values inserted into the release table
+01/03/20 13:44:28 INFO The Release Branch name is  IVV-PLT-2020.0103.0300
+01/03/20 13:44:28 INFO Connecting to the database
+01/03/20 13:44:28 INFO Connected to the mysql database 3.125.182.23
+01/03/20 13:44:28 INFO Connected to the database
+01/03/20 13:44:28 INFO creating the audit log table
+01/03/20 13:44:28 INFO Audit log table is created and values inserted
+01/03/20 13:44:28 INFO Reading the values from Properties table
+01/03/20 13:44:28 INFO Values read from the Properties table
+01/03/20 13:44:28 INFO Getting the length of Release Table
+01/03/20 13:44:28 INFO Entering into the Main function
+01/03/20 13:44:28 INFO Reading values from cmdb-defect.csv file
+01/03/20 13:44:28 INFO Inserting the values into the release table
+01/03/20 13:44:28 INFO values inserted into the release table
+01/03/20 13:50:25 INFO The Release Branch name is  IVV-PLT-2020.0103.0500
+01/03/20 13:50:25 INFO Connecting to the database
+01/03/20 13:50:25 INFO Connected to the mysql database 3.125.182.23
+01/03/20 13:50:25 INFO Connected to the database
+01/03/20 13:50:25 INFO creating the audit log table
+01/03/20 13:50:25 INFO Audit log table is created and values inserted
+01/03/20 13:50:25 INFO Reading the values from Properties table
+01/03/20 13:50:25 INFO Values read from the Properties table
+01/03/20 13:50:25 INFO Getting the length of Release Table
+01/03/20 13:50:25 INFO Entering into the Main function
+01/03/20 13:50:25 INFO Reading values from cmdb-defect.csv file
+01/03/20 13:50:25 INFO Inserting the values into the release table
+01/03/20 13:50:25 INFO values inserted into the release table
+01/03/20 13:52:14 INFO The Release Branch name is  IVV-PLT-2020
+01/03/20 13:52:14 INFO Connecting to the database
+01/03/20 13:52:14 INFO Connected to the mysql database 3.125.182.23
+01/03/20 13:52:14 INFO Connected to the database
+01/03/20 13:52:14 INFO creating the audit log table
+01/03/20 13:52:14 INFO Audit log table is created and values inserted
+01/03/20 13:52:14 INFO Reading the values from Properties table
+01/03/20 13:52:14 INFO Values read from the Properties table
+01/03/20 13:52:14 INFO Getting the length of Release Table
+01/03/20 13:52:14 INFO Entering into the Main function
+01/03/20 13:52:14 INFO Reading values from cmdb-defect.csv file
+01/03/20 13:53:20 INFO The Release Branch name is  IVV-PLT-2020
+01/03/20 13:53:20 INFO Connecting to the database
+01/03/20 13:53:20 INFO Connected to the mysql database 3.125.182.23
+01/03/20 13:53:20 INFO Connected to the database
+01/03/20 13:53:20 INFO creating the audit log table
+01/03/20 13:53:20 INFO Audit log table is created and values inserted
+01/03/20 13:53:20 INFO Reading the values from Properties table
+01/03/20 13:53:20 INFO Values read from the Properties table
+01/03/20 13:53:20 INFO Getting the length of Release Table
+01/03/20 13:53:20 INFO Entering into the Main function
+01/03/20 13:53:20 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:05:14 INFO The Release Branch name is  IVV-PLT-Testing
+03/18/20 21:05:14 INFO Connecting to the database
+03/18/20 21:05:14 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:05:14 INFO Connected to the database
+03/18/20 21:05:14 INFO creating the audit log table
+03/18/20 21:05:14 INFO Audit log table is created and values inserted
+03/18/20 21:05:14 INFO Reading the values from Properties table
+03/18/20 21:05:14 INFO Values read from the Properties table
+03/18/20 21:05:14 INFO Getting the length of Release Table
+03/18/20 21:05:14 INFO Entering into the Main function
+03/18/20 21:05:14 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:05:14 INFO Inserting the values into the release table
+03/18/20 21:05:14 INFO values inserted into the release table
+03/18/20 21:05:17 INFO The Release Branch name is  IVV-PLT-Testing
+03/18/20 21:05:17 INFO Connecting to the database
+03/18/20 21:05:17 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:05:17 INFO Connected to the database
+03/18/20 21:05:17 INFO creating the audit log table
+03/18/20 21:05:17 INFO Audit log table is created and values inserted
+03/18/20 21:05:17 INFO Reading the values from Properties table
+03/18/20 21:05:17 INFO Values read from the Properties table
+03/18/20 21:05:17 INFO Getting the length of Release Table
+03/18/20 21:05:17 INFO Entering into the Main function
+03/18/20 21:05:17 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:05:17 INFO Inserting the values into the release table
+03/18/20 21:05:17 INFO values inserted into the release table
+03/18/20 21:10:31 INFO The Release Branch name is  IVV-PLT-Testing01
+03/18/20 21:10:31 INFO Connecting to the database
+03/18/20 21:10:31 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:10:31 INFO Connected to the database
+03/18/20 21:10:31 INFO creating the audit log table
+03/18/20 21:10:31 INFO Audit log table is created and values inserted
+03/18/20 21:10:31 INFO Reading the values from Properties table
+03/18/20 21:10:31 INFO Values read from the Properties table
+03/18/20 21:10:31 INFO Getting the length of Release Table
+03/18/20 21:10:31 INFO Entering into the Main function
+03/18/20 21:10:31 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:10:31 INFO Inserting the values into the release table
+03/18/20 21:10:31 INFO values inserted into the release table
+03/18/20 21:10:35 INFO The Release Branch name is  IVV-PLT-Testing01
+03/18/20 21:10:35 INFO Connecting to the database
+03/18/20 21:10:35 INFO Connected to the mysql database 3.125.182.23
+03/18/20 21:10:35 INFO Connected to the database
+03/18/20 21:10:35 INFO creating the audit log table
+03/18/20 21:10:35 INFO Audit log table is created and values inserted
+03/18/20 21:10:35 INFO Reading the values from Properties table
+03/18/20 21:10:35 INFO Values read from the Properties table
+03/18/20 21:10:35 INFO Getting the length of Release Table
+03/18/20 21:10:35 INFO Entering into the Main function
+03/18/20 21:10:35 INFO Reading values from cmdb-defect.csv file
+03/18/20 21:10:35 INFO Inserting the values into the release table
+03/18/20 21:10:35 INFO values inserted into the release table

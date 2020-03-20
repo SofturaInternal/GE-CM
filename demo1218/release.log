@@ -1,0 +1,195 @@
+12/17/19 21:01:46 INFO The Release Branch name is  IVV-PLT-2019.1217.0900
+12/17/19 21:01:46 INFO Connecting to the database
+12/17/19 21:01:46 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:01:46 INFO Connected to the database
+12/17/19 21:01:46 INFO creating the audit log table
+12/17/19 21:01:46 INFO Audit log table is created and values inserted
+12/17/19 21:01:46 INFO Converting QueryResult xls file csv
+12/17/19 21:01:46 INFO QueryResult xls file is converted to csv
+12/17/19 21:01:46 INFO Reading the values from Properties table
+12/17/19 21:01:46 INFO Values read from the Properties table
+12/17/19 21:01:46 INFO Getting the length of Release Table
+12/17/19 21:01:46 INFO Entering into the Main function
+12/17/19 21:01:46 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:01:46 INFO Inserting the values into the release table
+12/17/19 21:01:46 INFO values inserted into the release table
+12/17/19 21:09:19 INFO The Release Branch name is  IVV-PLT-2019.1217.0930
+12/17/19 21:09:19 INFO Connecting to the database
+12/17/19 21:09:19 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:09:19 INFO Connected to the database
+12/17/19 21:09:19 INFO creating the audit log table
+12/17/19 21:09:19 INFO Audit log table is created and values inserted
+12/17/19 21:09:19 INFO Converting QueryResult xls file csv
+12/17/19 21:09:19 INFO QueryResult xls file is converted to csv
+12/17/19 21:09:19 INFO Reading the values from Properties table
+12/17/19 21:09:19 INFO Values read from the Properties table
+12/17/19 21:09:19 INFO Getting the length of Release Table
+12/17/19 21:09:19 INFO Entering into the Main function
+12/17/19 21:09:19 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:09:19 INFO Inserting the values into the release table
+12/17/19 21:09:19 INFO values inserted into the release table
+12/17/19 21:32:24 INFO The Release Branch name is  IVV-PLT-2019.1217.1000
+12/17/19 21:32:24 INFO Connecting to the database
+12/17/19 21:32:24 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:32:24 INFO Connected to the database
+12/17/19 21:32:24 INFO creating the audit log table
+12/17/19 21:32:24 INFO Audit log table is created and values inserted
+12/17/19 21:32:24 INFO Converting QueryResult xls file csv
+12/17/19 21:32:24 INFO QueryResult xls file is converted to csv
+12/17/19 21:32:24 INFO Reading the values from Properties table
+12/17/19 21:32:24 INFO Values read from the Properties table
+12/17/19 21:32:24 INFO Getting the length of Release Table
+12/17/19 21:32:24 INFO Entering into the Main function
+12/17/19 21:32:24 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:32:24 INFO Inserting the values into the release table
+12/17/19 21:32:24 INFO values inserted into the release table
+12/17/19 21:34:22 INFO The Release Branch name is  IVV-PLT-2019.1017.1030
+12/17/19 21:34:22 INFO Connecting to the database
+12/17/19 21:34:22 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:34:22 INFO Connected to the database
+12/17/19 21:34:22 INFO creating the audit log table
+12/17/19 21:34:22 INFO Audit log table is created and values inserted
+12/17/19 21:34:22 INFO Converting QueryResult xls file csv
+12/17/19 21:34:22 INFO QueryResult xls file is converted to csv
+12/17/19 21:34:22 INFO Reading the values from Properties table
+12/17/19 21:34:22 INFO Values read from the Properties table
+12/17/19 21:34:22 INFO Getting the length of Release Table
+12/17/19 21:34:22 INFO Entering into the Main function
+12/17/19 21:34:22 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:34:22 INFO Inserting the values into the release table
+12/17/19 21:34:22 INFO values inserted into the release table
+12/17/19 21:53:16 INFO The Release Branch name is  IVV-PLT-2019.1217.1100
+12/17/19 21:53:16 INFO Connecting to the database
+12/17/19 21:53:16 INFO Connected to the mysql database 3.125.182.23
+12/17/19 21:53:16 INFO Connected to the database
+12/17/19 21:53:16 INFO creating the audit log table
+12/17/19 21:53:16 INFO Audit log table is created and values inserted
+12/17/19 21:53:16 INFO Converting QueryResult xls file csv
+12/17/19 21:53:16 INFO QueryResult xls file is converted to csv
+12/17/19 21:53:16 INFO Reading the values from Properties table
+12/17/19 21:53:16 INFO Values read from the Properties table
+12/17/19 21:53:16 INFO Getting the length of Release Table
+12/17/19 21:53:16 INFO Entering into the Main function
+12/17/19 21:53:16 INFO Reading values from cmdb-defect.csv file
+12/17/19 21:53:16 INFO Inserting the values into the release table
+12/17/19 21:53:16 INFO values inserted into the release table
+12/17/19 22:10:22 INFO The Release Branch name is  IVV-PLT-2019.1217.1200
+12/17/19 22:10:22 INFO Connecting to the database
+12/17/19 22:10:22 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:10:22 INFO Connected to the database
+12/17/19 22:10:22 INFO creating the audit log table
+12/17/19 22:10:22 INFO Audit log table is created and values inserted
+12/17/19 22:10:22 INFO Converting QueryResult xls file csv
+12/17/19 22:10:22 INFO QueryResult xls file is converted to csv
+12/17/19 22:10:22 INFO Reading the values from Properties table
+12/17/19 22:10:22 INFO Values read from the Properties table
+12/17/19 22:10:22 INFO Getting the length of Release Table
+12/17/19 22:10:22 INFO Entering into the Main function
+12/17/19 22:10:22 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:10:22 INFO Inserting the values into the release table
+12/17/19 22:10:22 INFO values inserted into the release table
+12/17/19 22:17:42 INFO The Release Branch name is  IVV-PLT-2019.1218.0000
+12/17/19 22:17:42 INFO Connecting to the database
+12/17/19 22:17:42 INFO Connected to the mysql database 3.125.182.23
+12/17/19 22:17:42 INFO Connected to the database
+12/17/19 22:17:42 INFO creating the audit log table
+12/17/19 22:17:42 INFO Audit log table is created and values inserted
+12/17/19 22:17:42 INFO Converting QueryResult xls file csv
+12/17/19 22:17:42 INFO QueryResult xls file is converted to csv
+12/17/19 22:17:42 INFO Reading the values from Properties table
+12/17/19 22:17:42 INFO Values read from the Properties table
+12/17/19 22:17:42 INFO Getting the length of Release Table
+12/17/19 22:17:42 INFO Entering into the Main function
+12/17/19 22:17:42 INFO Reading values from cmdb-defect.csv file
+12/17/19 22:17:42 INFO Inserting the values into the release table
+12/17/19 22:17:42 INFO values inserted into the release table
+12/18/19 12:23:57 INFO The Release Branch name is  IVV-PLT-2019.1218.1230
+12/18/19 12:23:57 INFO Connecting to the database
+12/18/19 12:23:57 INFO Connected to the mysql database 3.125.182.23
+12/18/19 12:23:57 INFO Connected to the database
+12/18/19 12:23:57 INFO creating the audit log table
+12/18/19 12:23:57 INFO Audit log table is created and values inserted
+12/18/19 12:23:57 INFO Converting QueryResult xls file csv
+12/18/19 12:23:57 INFO QueryResult xls file is converted to csv
+12/18/19 12:23:57 INFO Reading the values from Properties table
+12/18/19 12:23:57 INFO Values read from the Properties table
+12/18/19 12:23:57 INFO Getting the length of Release Table
+12/18/19 12:23:57 INFO Entering into the Main function
+12/18/19 12:23:57 INFO Reading values from cmdb-defect.csv file
+12/18/19 12:23:57 INFO Inserting the values into the release table
+12/18/19 12:23:57 INFO values inserted into the release table
+12/20/19 14:36:39 INFO The Release Branch name is  IVV-PLT-2019.1220.0230
+12/20/19 14:36:39 INFO Connecting to the database
+12/20/19 14:36:39 INFO Connected to the mysql database 3.125.182.23
+12/20/19 14:36:39 INFO Connected to the database
+12/20/19 14:36:39 INFO creating the audit log table
+12/20/19 14:36:39 INFO Audit log table is created and values inserted
+12/20/19 14:36:39 INFO Converting QueryResult xls file csv
+12/20/19 14:36:39 INFO QueryResult xls file is converted to csv
+12/20/19 14:36:39 INFO Reading the values from Properties table
+12/20/19 14:36:39 INFO Values read from the Properties table
+12/20/19 14:36:39 INFO Getting the length of Release Table
+12/20/19 14:36:39 INFO Entering into the Main function
+12/20/19 14:36:39 INFO Reading values from cmdb-defect.csv file
+12/20/19 14:36:39 INFO Inserting the values into the release table
+12/20/19 14:36:39 INFO values inserted into the release table
+12/20/19 14:38:25 INFO The Release Branch name is  IVV-PLT-2019.1220.0300
+12/20/19 14:38:25 INFO Connecting to the database
+12/20/19 14:38:25 INFO Connected to the mysql database 3.125.182.23
+12/20/19 14:38:25 INFO Connected to the database
+12/20/19 14:38:25 INFO creating the audit log table
+12/20/19 14:38:25 INFO Audit log table is created and values inserted
+12/20/19 14:38:25 INFO Converting QueryResult xls file csv
+12/20/19 14:38:25 INFO QueryResult xls file is converted to csv
+12/20/19 14:38:25 INFO Reading the values from Properties table
+12/20/19 14:38:25 INFO Values read from the Properties table
+12/20/19 14:38:25 INFO Getting the length of Release Table
+12/20/19 14:38:25 INFO Entering into the Main function
+12/20/19 14:38:25 INFO Reading values from cmdb-defect.csv file
+12/20/19 14:38:25 INFO Inserting the values into the release table
+12/20/19 14:38:25 INFO values inserted into the release table
+12/20/19 14:44:00 INFO The Release Branch name is  IVV-PLT-2019.1220.0330
+12/20/19 14:44:00 INFO Connecting to the database
+12/20/19 14:44:00 INFO Connected to the mysql database 3.125.182.23
+12/20/19 14:44:00 INFO Connected to the database
+12/20/19 14:44:00 INFO creating the audit log table
+12/20/19 14:44:00 INFO Audit log table is created and values inserted
+12/20/19 14:44:00 INFO Converting QueryResult xls file csv
+12/20/19 14:44:00 INFO QueryResult xls file is converted to csv
+12/20/19 14:44:00 INFO Reading the values from Properties table
+12/20/19 14:44:00 INFO Values read from the Properties table
+12/20/19 14:44:00 INFO Getting the length of Release Table
+12/20/19 14:44:00 INFO Entering into the Main function
+12/20/19 14:44:00 INFO Reading values from cmdb-defect.csv file
+12/20/19 14:44:00 INFO Inserting the values into the release table
+12/20/19 14:44:00 INFO values inserted into the release table
+12/20/19 14:48:24 INFO The Release Branch name is  IVV-PLT-2019.1220.0400
+12/20/19 14:48:24 INFO Connecting to the database
+12/20/19 14:48:24 INFO Connected to the mysql database 3.125.182.23
+12/20/19 14:48:24 INFO Connected to the database
+12/20/19 14:48:24 INFO creating the audit log table
+12/20/19 14:48:24 INFO Audit log table is created and values inserted
+12/20/19 14:48:24 INFO Converting QueryResult xls file csv
+12/20/19 14:48:24 INFO QueryResult xls file is converted to csv
+12/20/19 14:48:24 INFO Reading the values from Properties table
+12/20/19 14:48:24 INFO Values read from the Properties table
+12/20/19 14:48:24 INFO Getting the length of Release Table
+12/20/19 14:48:24 INFO Entering into the Main function
+12/20/19 14:48:24 INFO Reading values from cmdb-defect.csv file
+12/20/19 14:48:24 INFO Inserting the values into the release table
+12/20/19 14:48:24 INFO values inserted into the release table
+12/20/19 14:53:21 INFO The Release Branch name is  IVV-PLT-2019.1220.0430
+12/20/19 14:53:21 INFO Connecting to the database
+12/20/19 14:53:21 INFO Connected to the mysql database 3.125.182.23
+12/20/19 14:53:21 INFO Connected to the database
+12/20/19 14:53:21 INFO creating the audit log table
+12/20/19 14:53:21 INFO Audit log table is created and values inserted
+12/20/19 14:53:21 INFO Converting QueryResult xls file csv
+12/20/19 14:53:21 INFO QueryResult xls file is converted to csv
+12/20/19 14:53:21 INFO Reading the values from Properties table
+12/20/19 14:53:21 INFO Values read from the Properties table
+12/20/19 14:53:21 INFO Getting the length of Release Table
+12/20/19 14:53:21 INFO Entering into the Main function
+12/20/19 14:53:21 INFO Reading values from cmdb-defect.csv file
+12/20/19 14:53:21 INFO Inserting the values into the release table
+12/20/19 14:53:21 INFO values inserted into the release table
